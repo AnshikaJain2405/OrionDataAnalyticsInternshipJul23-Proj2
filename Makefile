@@ -1,6 +1,6 @@
-initialize_git:
-	@echo "Initializing git..."
-	git init 
+# initialize_git:
+# 	@echo "Initializing git..."
+# 	git init 
 	
 install: 
 	@echo "Installing..."
@@ -9,7 +9,7 @@ install:
 
 activate:
 	@echo "Activating virtual environment"
-	poetry shell
+	source "./Orion2.venv/Scripts/activate.bat"
 
 download_data:
 	@echo "Downloading data..."
