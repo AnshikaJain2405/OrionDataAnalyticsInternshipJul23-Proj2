@@ -10,6 +10,8 @@ pandas = "^2.0.3"
 seaborn = "^0.12.2"
 geopandas = "^0.13.2"
 folium = "^0.14.0"
+mapbox = "^0.18.1"
+tqdm = "^4.65.0"
 
 
 [tool.poetry.dev-dependencies]
