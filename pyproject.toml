@@ -9,6 +9,7 @@ python = "^3.9.13"
 pandas = "^2.0.3"
 seaborn = "^0.12.2"
 geopandas = "^0.13.2"
+folium = "^0.14.0"
 
 
 [tool.poetry.dev-dependencies]
