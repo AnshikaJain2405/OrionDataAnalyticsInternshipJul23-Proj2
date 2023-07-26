@@ -1,0 +1,1306 @@
+address,place_name,relevance,longitude,lattitude
+"Electronic City Phase II,Bangalore,Karnataka,India","Electronic City Phase II, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.680811,12.843526
+"Chikka Tirupathi,Bangalore,Karnataka,India","Chikka Tirupathi Temple, NH 207, Malur, Karnataka 563163, India",0.818222,77.865734,12.895305
+"Uttarahalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Lingadheeranahalli,Bangalore,Karnataka,India","Lingadheeranahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.541279,12.880725
+"Kothanur,Bangalore,Karnataka,India","Kothanur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.649389,13.06136
+"Whitefield,Bangalore,Karnataka,India","Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.749745,12.969637
+"Old Airport Road,Bangalore,Karnataka,India","Hal Underpass, Sudhama Nagar, 560017, Jeevanbheemanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6661308,12.9584404
+"Rajaji Nagar,Bangalore,Karnataka,India","Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.554883,12.988234
+"Marathahalli,Bangalore,Karnataka,India","Marathahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.698416,12.955257
+"Gandhi Bazar,Bangalore,Karnataka,India","Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004, India",0.996806,77.571331,12.945311
+"7th Phase JP Nagar,Bangalore,Karnataka,India","JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.586607,12.909694
+"Gottigere,Bangalore,Karnataka,India","Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.587724,12.856532
+"Sarjapur,Bangalore,Karnataka,India","Sarjapura Road, 560035, Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.96,77.687841195793,12.90982715
+"Mysore Road,Bangalore,Karnataka,India","Mysore Road, Byatarayanapura, 560026, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5414353,12.9526539
+"Bisuvanahalli,Bangalore,Karnataka,India","Bisuvanahalli, Dod Ballapur, Bengaluru Rural, Karnataka, India",0.875,77.554088,13.235592
+"Raja Rajeshwari Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Ramakrishnappa Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Manayata Tech Park,Bangalore,Karnataka,India","Manayata Tech Park, Nagavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.621027,13.04574
+"Kengeri,Bangalore,Karnataka,India","Kengeri, Bengaluru, Karnataka 560060, India",1.0,77.48132050000001,12.908838
+"Binny Pete,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Thanisandra,Bangalore,Karnataka,India","Thanisandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.626721,13.048223
+"Bellandur,Bangalore,Karnataka,India","Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.677042,12.929211
+" Thanisandra,Bangalore,Karnataka,India","Thanisandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.626721,13.048223
+"Mangammanapalya,Bangalore,Karnataka,India","Mangammanapalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.632374,12.905811
+"Electronic City,Bangalore,Karnataka,India","Electronic City, Anekal, Bengaluru Urban, Karnataka, India",0.990889,77.680243,12.836273
+"Ramagondanahalli,Bangalore,Karnataka,India","Ramagondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558619,13.119647
+"Yelahanka,Bangalore,Karnataka,India","Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.596345,13.100698
+"Hebbal,Bangalore,Karnataka,India","Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5919,13.038218
+"Kasturi Nagar,Bangalore,Karnataka,India","Kasturi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.660323,13.004498
+"Kanakpura Road,Bangalore,Karnataka,India","HSR Services, Bengaluru, Karnataka 560078, India",0.99869,77.5724,12.896796
+"Electronics City Phase 1,Bangalore,Karnataka,India","Electronics City Phase 1, Electronic City, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.667775,12.836318
+"Kundalahalli,Bangalore,Karnataka,India","Kundalahalli, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.718784,12.968444
+"Chikkalasandra,Bangalore,Karnataka,India","Chikkalasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.547634,12.912192
+"Murugeshpalya,Bangalore,Karnataka,India","Murugeshpalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.657571,12.956128
+"Sarjapur  Road,Bangalore,Karnataka,India","Sarjapura Road, 560035, Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.687841195793,12.90982715
+"Ganga Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"HSR Layout,Bangalore,Karnataka,India","HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.638862,12.911623
+"Doddathoguru,Bangalore,Karnataka,India","Doddathoguru, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.655615,12.852913
+"KR Puram,Bangalore,Karnataka,India","KR Puram, Shivamogga, Shivamogga, Karnataka, India",0.772222,75.580094,13.92881
+"Himagiri Meadows,Bangalore,Karnataka,India","Himagiri Meadows, Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.592618,12.862167
+"Adarsh Nagar,Bangalore,Karnataka,India","Adarsh Nagar, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.519014,12.970238
+"Bhoganhalli,Bangalore,Karnataka,India","Bhoganhalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.698998,12.918217
+"Lakshminarayana Pura,Bangalore,Karnataka,India","Lakshminarayana Pura, Chinnapanna Halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.710023,12.958131
+"Begur Road,Bangalore,Karnataka,India","Begur Road, Bommanahalli, 560068, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6242766,12.9054849
+"Devanahalli,Bangalore,Karnataka,India","Devanahalli, Karnataka, India",0.87,77.713438,13.24835
+"Govindaraja Nagar Ward,Bangalore,Karnataka,India","Govindaraja Nagar Ward, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.514592,12.973121
+"Tharabanahalli,Bangalore,Karnataka,India","Tharabanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.480435,13.102478
+"Varthur,Bangalore,Karnataka,India","Varthur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.746994,12.940615
+"Bommanahalli,Bangalore,Karnataka,India","Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.623904,12.908945
+"Gunjur,Bangalore,Karnataka,India","Gunjur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.736102,12.920977
+"Devarachikkanahalli,Bangalore,Karnataka,India","Devarachikkana Halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.618244,12.881115
+"Double Road,Bangalore,Karnataka,India","Kengal Hanumanthaiah Road, 560027, Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5927415,12.9572348
+"Hegde Nagar,Bangalore,Karnataka,India","Hegde Nagar Market, Bengaluru, Karnataka 560077, India",0.946667,77.633709,13.072061
+"Haralur Road,Bangalore,Karnataka,India","Haralur Road, 560102, Kasavanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6709826507025,12.90666275
+"Hennur Road,Bangalore,Karnataka,India","Hennur Road, Telecom Layout, 560043, HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6312977,13.0359535
+"Kothannur,Bangalore,Karnataka,India","Kothanur, Bengaluru, Bengaluru Urban, Karnataka, India",0.996111,77.649389,13.06136
+"Kalena Agrahara,Bangalore,Karnataka,India","Kalena Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.588993,12.863864
+"Cholanayakanahalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Kaval Byrasandra,Bangalore,Karnataka,India","Byrasandra, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.667778,12.980546
+"ISRO Layout,Bangalore,Karnataka,India","Isro Colony, HMT Estate, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.534552,13.044307
+"Kodanda Reddy Layout,Bangalore,Karnataka,India","Reddy Street, 560064, Central Reserve Police Force Area, Bengaluru, Bengaluru Urban, Karnataka, India",0.713704,77.5696309,13.114818
+"Garudachar Palya,Bangalore,Karnataka,India","Palya, Devanahalli, Bengaluru Rural, Karnataka, India",0.7,77.79048,13.231166
+"EPIP Zone,Bangalore,Karnataka,India","EPIP Zone, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.712509,12.970573
+"Dasanapura,Bangalore,Karnataka,India","Dasanapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.436479,13.07589
+"Kasavanhalli,Bangalore,Karnataka,India","Kasavanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.677106,12.909713
+"Sanjay nagar,Bangalore,Karnataka,India","Sanjay Nagar, Marathahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.694631,12.972486
+" Mysore Highway,Bangalore,Karnataka,India","Mysore Bank, Bengaluru, Karnataka 560009, India",0.77,77.581551,12.972808
+"Domlur,Bangalore,Karnataka,India","Domlur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.638196,12.962467
+"Sarjapura - Attibele Road,Bangalore,Karnataka,India","Sarjapura, Anekal, Bengaluru Urban, Karnataka, India",0.76,77.786135,12.860087
+"Devasthanagalu,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"T Dasarahalli,Bangalore,Karnataka,India","T. Dasarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.513943,13.046049
+"Yeshwanthpur,Bangalore,Karnataka,India","Yeshwanthpur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.552921,13.02383
+"Chandapura,Bangalore,Karnataka,India","Chandapura, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.706283,12.800444
+"Green View Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Shantiniketan Layout,Bangalore,Karnataka,India","Shantiniketan Layout, Arekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.604793,12.882802
+"Peenya,Bangalore,Karnataka,India","Peenya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.527325,13.032942
+"Nagarbhavi,Bangalore,Karnataka,India","Nagarbhavi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.513078,12.966418
+"Jalahalli West,Bangalore,Karnataka,India","Jalahalli West, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.512154,13.060794
+"Lakshmiamma Garden,Bangalore,Karnataka,India","Lakshmiamma Garden, Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.598137,12.957801
+"Byatarayanapura,Bangalore,Karnataka,India","Byatarayanapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.594775,13.063012
+"Ramamurthy Nagar,Bangalore,Karnataka,India","Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.677782,13.012022
+"Malleshwaram,Bangalore,Karnataka,India","Malleshwaram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.570325,13.002735
+"Akshaya Nagar,Bangalore,Karnataka,India","Akshya Nagar, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.997821,77.683885,13.023082
+"Shampura,Bangalore,Karnataka,India","Shampura, Kaval Bairasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.612345,13.030802
+"Kadugodi,Bangalore,Karnataka,India","Kadugodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.721828,13.000854
+"LB Shastri Nagar,Bangalore,Karnataka,India","Shastri Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.573187,12.932149
+"Vajarahalli,Bangalore,Karnataka,India","Vajarahalli, Ramanagara, Ramanagara, Karnataka, India",0.875,77.391134,12.823898
+"Hormavu,Bangalore,Karnataka,India","Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",0.992143,77.660151,13.027331
+"Vishwapriya Layout,Bangalore,Karnataka,India","Vishwapriya Nagar, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.626669,12.881082
+"Ramaswamy Palya - Kammanahalli Main Road,Bangalore,Karnataka,India","Kammanahalli Main Road, Kammanahalli, 560043, Kacharakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.787778,77.6371117,13.0217349
+"Kudlu Gate,Bangalore,Karnataka,India","Kudlu Gate, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.641193,12.89163
+"8th Phase JP Nagar,Bangalore,Karnataka,India","8th Phase, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.576131,12.881281
+"Bommasandra Industrial Area,Bangalore,Karnataka,India","Bommasandra Industrial Area, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.67907,12.817413
+"Chandra Layout,Bangalore,Karnataka,India","Chandra Layout, Marathahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.703545,12.955167
+"Anandapura,Bangalore,Karnataka,India","Anandapura, Battarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.694093,13.025071
+"Vishveshwarya Layout,Bangalore,Karnataka,India","Vishveshwaraya Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.763846,77.476615,12.971378
+"Kengeri Satellite Town,Bangalore,Karnataka,India","Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.486964,12.923649
+"Basavanapura,Bangalore,Karnataka,India","Basavanapura, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.713311,13.013829
+"Dinnur,Bangalore,Karnataka,India","Dinnur, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.597764,13.026708
+"Kannamangala,Bangalore,Karnataka,India","Kannamangala, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.762795,13.030285
+" Devarachikkanahalli,Bangalore,Karnataka,India","Devarachikkana Halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.618244,12.881115
+"Sanjeevini Nagar,Bangalore,Karnataka,India","Sanjeevini Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.585298,13.053315
+"Hulimavu,Bangalore,Karnataka,India","Hulimavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.602803,12.877349
+"Mahalakshmi Layout,Bangalore,Karnataka,India","Anjaneya Temple, Mahalakshmi Layout, Bengaluru, Karnataka 560086, India",1.0,77.546567,13.009576
+"Yarandahalli,Bangalore,Karnataka,India","Yarandahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.659102,12.806085
+"Hosa Road,Bangalore,Karnataka,India","Hosa Road, Pragathi Nagar, 560100, Basapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6573436,12.8702985
+"Keshava Nagar,Bangalore,Karnataka,India","Keshava Nagar, Binnipete, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.563799,12.972428
+"RMV Extension,Bangalore,Karnataka,India","RMV, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.577813,13.040641
+"Tejaswini Nagar,Bangalore,Karnataka,India","Tejaswini Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60523,12.858716
+"Jai Bheema Nagar,Bangalore,Karnataka,India","Jai Bheema Nagar, Sampangiram Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5738,12.993516
+"Kothnur Narayanapura,Bangalore,Karnataka,India","Narayanapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.647345,13.065686
+"Attibele,Bangalore,Karnataka,India","Attibele, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.771283,12.778259
+"CV Raman Nagar,Bangalore,Karnataka,India","C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.664977,12.985648
+"CHIKKATIRUPATHI,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Kumaraswami Layout,Bangalore,Karnataka,India","Kumaraswamy Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.562166,12.899531
+"Nagavara,Bangalore,Karnataka,India","Nagavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.623602,13.037465
+"Hebbal Kempapura,Bangalore,Karnataka,India","Hebbal Kempapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.601811,13.052102
+"Vijayanagar,Bangalore,Karnataka,India","Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.539357,12.970247
+"8th block Koramangala,Bangalore,Karnataka,India","Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.62223,12.934011
+"Jakkuru Layout,Bangalore,Karnataka,India","Jakkuru Layout, Jakkuru, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.601188,13.070188
+"Pattandur Agrahara,Bangalore,Karnataka,India","Pattandur Agrahara, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.73937,12.987666
+"Ejipura,Bangalore,Karnataka,India","Ejipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.626914,12.945245
+"MS Pallya,Bangalore,Karnataka,India","Ms Palya Circle, Mohammed Sab Palya, 560097, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.932593,77.5483847,13.0816898
+"Nagasandra,Bangalore,Karnataka,India","Nagasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.501693,13.043664
+"Langford Town,Bangalore,Karnataka,India","Langford Town, Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.603731,12.957998
+"Kogilu,Bangalore,Karnataka,India","Kogilu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.609268,13.098147
+"Panathur,Bangalore,Karnataka,India","Panathur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.704754,12.935146
+"Nagondanahalli,Bangalore,Karnataka,India","Nagondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.77034,12.97516
+"Padmanabhanagar,Bangalore,Karnataka,India","Padmanabhanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.552839,12.916581
+"1st Block Jayanagar,Bangalore,Karnataka,India","Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.582423,12.929273
+"Kammasandra,Bangalore,Karnataka,India","Kammasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.439122,13.034502
+"Off Sarjapur Road, ,Bangalore,Karnataka,India","Sarjapura Road, 560035, Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.687841195793,12.90982715
+"Tala Cauvery Layout,Bangalore,Karnataka,India","Cauvery Nagar, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.713704,77.523026,12.978716
+"Dasarahalli,Bangalore,Karnataka,India","Dasarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.611528,13.056246
+"Magadi Road,Bangalore,Karnataka,India","Magadi Road, 560023, Binnipete, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5550299,12.9752737
+"Ngef Layout,Bangalore,Karnataka,India","NGEF Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.494027,12.960576
+"Koramangala,Bangalore,Karnataka,India","Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.62223,12.934011
+"Lakshminarayanapura, Electronic City Phase 2,Bangalore,Karnataka,India","Electronic City, Anekal, Bengaluru Urban, Karnataka, India",0.786667,77.680243,12.836273
+"Muthurayya Swamy Layout,Bangalore,Karnataka,India","Muthurayya Swamy Layout, Hulimavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.601122,12.874301
+"Dommasandra,Bangalore,Karnataka,India","Dommasandra, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.753477,12.87771
+"Budigere,Bangalore,Karnataka,India","Budigere, Devanahalli, Bengaluru Rural, Karnataka, India",0.875,77.74957,13.13514
+"Dodda Nekkundi Extension,Bangalore,Karnataka,India","Dodda Nekkundi Extension, Kartik Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.704073,12.970606
+"Mylasandra,Bangalore,Karnataka,India","Mylasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.617831,12.851489
+"Kalyan nagar,Bangalore,Karnataka,India","Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.640337,13.022142
+"Dr Shivarama Karantha Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.607143,77.5913,12.97912
+"Bank Of Baroda Colony,Bangalore,Karnataka,India","Bank of Baroda, Bengaluru, Karnataka 560050, India",0.835397,77.556582,12.938293
+"Kullappa Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Mukkutam Nagar,Bangalore,Karnataka,India","Mukkutam Nagar, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.664296,13.013157
+"Ashwath Nagar,Bangalore,Karnataka,India","Ashwath Nagar, Sampangi Rama Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.590858,12.966734
+"Ncpr Industrial Layout,Bangalore,Karnataka,India","Industrial Layout, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.639431,12.888507
+"Meenakunte,Bangalore,Karnataka,India","Meenakunte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.639137,13.182639
+"OMBR Layout,Bangalore,Karnataka,India","OMBR Layout, Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.649898,13.008229
+"Anand Nagar,Bangalore,Karnataka,India","Anand Nagar, Hubli, Dharwad, Karnataka, India",0.772222,75.10945,15.339409
+"Shree Ananth Nagar Layout,Bangalore,Karnataka,India","Ananth Nagar, Anekal, Bengaluru Urban, Karnataka, India",0.826032,77.684897,12.835916
+"Kundalahalli Colony,Bangalore,Karnataka,India","Kundalahalli Colony, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.711694,12.969909
+"Horamavu Agara,Bangalore,Karnataka,India","Horamavu Agara, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.659903,13.0344
+"MCECHS  layout,Bangalore,Karnataka,India","Mcechs Layout Main Road, M.C.E.C.H.S. Layout 1st Phase, 560077, R.K. Hegde Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6263827,13.0688327
+"Coffee Board Layout,Bangalore,Karnataka,India","Coffee Board Layout, Nagavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60608,13.050325
+"Ambedkar Nagar,Bangalore,Karnataka,India","Ambedkar Nagar, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.754105,12.979853
+"KUDLU MAIN ROAD,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Geleyara Balaga Layout,Bangalore,Karnataka,India","Geleyara Balaga Layout, Jalahalli West, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.507674,13.068498
+"Talaghattapura,Bangalore,Karnataka,India","Talaghattapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.535669,12.869817
+"Sundara Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Balagere,Bangalore,Karnataka,India","Balagere Road, 560087, Varthur, Bengaluru, Bengaluru Urban, Karnataka, India",0.96,77.7381639,12.9393071
+"Jigani,Bangalore,Karnataka,India","Jigani, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.638093,12.785253
+"Gollarapalya Hosahalli,Bangalore,Karnataka,India","Gollarapalya Hosahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.48119,12.993797
+"Srirampura,Bangalore,Karnataka,India","Srirampura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.563809,12.990987
+"Old Madras Road,Bangalore,Karnataka,India","Old Madras Road, Pai Layout, 560016, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6697547,12.9970117
+"Kaggadasapura,Bangalore,Karnataka,India","Kaggadasapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.674812,12.975113
+"Silver Springs Layout,Bangalore,Karnataka,India","Silver Springs Layout, Munnekollal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.712251,12.9556
+"9th Phase JP Nagar,Bangalore,Karnataka,India","9th Phase, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.578997,12.873076
+"Jakkur,Bangalore,Karnataka,India","Jakkuru, Bengaluru, Bengaluru Urban, Karnataka, India",0.989167,77.606894,13.078474
+"TC Palaya,Bangalore,Karnataka,India","Tc Palaya Road, 560016, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6930892,13.0098552
+"Maruthi Sevanagar,Bangalore,Karnataka,India","Maruthi Sevanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.629968,13.000122
+"RMV 2nd Stage,Bangalore,Karnataka,India","RMV 2nd Stage, Armane Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.578982,13.02299
+"Giri Nagar,Bangalore,Karnataka,India","Giri Nagar, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.546423,12.942237
+"Singasandra,Bangalore,Karnataka,India","Singasandra, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.649914,12.888022
+"AECS Layout,Bangalore,Karnataka,India","AECS Layout, Singasandra, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.649492,12.884342
+"Mallasandra,Bangalore,Karnataka,India","Mallasandra, Bengaluru, Karnataka 560062, India",1.0,77.541551,12.859291
+"Begur,Bangalore,Karnataka,India","Begur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.639986,12.887245
+"JP Nagar,Bangalore,Karnataka,India","JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.586607,12.909694
+"Sunder Ram Shetty Nagar,Bangalore,Karnataka,India","Sundar Ram Shetty Nagar, Bilekahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.601649,12.896148
+"Malleshpalya,Bangalore,Karnataka,India","Malleshpalya, Kaggadasapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.674353,12.974413
+"Kodathi,Bangalore,Karnataka,India","Kodathi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.715899,12.887262
+"Munnekollal,Bangalore,Karnataka,India","Munnekollal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.712251,12.9556
+"Motappa Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Akshaya Vana,Bangalore,Karnataka,India","Akshaya Vana, Akshayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.617495,12.86615
+"Kaggalipura,Bangalore,Karnataka,India","Kaggalipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.508244,12.801699
+"Basavanna Nagar,Bangalore,Karnataka,India","Basavanna Nagar, Hubli, Dharwad, Karnataka, India",0.772222,75.14536,15.333791
+"6th Phase JP Nagar,Bangalore,Karnataka,India","15th Cross 6th Phase Jp Nagar, KR Layout, 560078, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.931429,77.58220365,12.90612105
+"Ulsoor,Bangalore,Karnataka,India","Ulsoor, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.622481,12.978551
+"Thigalarapalya,Bangalore,Karnataka,India","Thigalarapalya, Hoodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.725551,12.992985
+"Somasundara Palya,Bangalore,Karnataka,India","Palya, Devanahalli, Bengaluru Rural, Karnataka, India",0.7,77.79048,13.231166
+"T.C PALYA,Bangalore,Karnataka,India","Tc Palaya Road, 560016, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.990208,77.6930892,13.0098552
+"Muneshwara Nagar,Bangalore,Karnataka,India","Muneshwara Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.643776,12.895982
+"Basaveshwara Nagar,Bangalore,Karnataka,India","Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.539132,12.993757
+"Bull Temple Road,Bangalore,Karnataka,India","Bull Temple Road, 560018, Shankarapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5678415,12.9535544
+"Bommasandra,Bangalore,Karnataka,India","Narayana Institute Of Cardiac Sciences, 258/A, Bommasandra Industrial Area, Hosur Road, Anekal Taluk, Anekal, Karnataka 560099, India",0.99,77.69547,12.809607
+"Prashanth Nagar,Bangalore,Karnataka,India","Prashanth Nagar, T. Dasarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.519932,13.046033
+"Suragajakkanahalli,Bangalore,Karnataka,India","Suragajakkanahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.66645,12.731516
+"Ardendale,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Harlur,Bangalore,Karnataka,India","Harlur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.66185,12.897447
+"Sampigehalli,Bangalore,Karnataka,India","Sampigehalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.618267,13.081635
+"RMV,Bangalore,Karnataka,India","RMV, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.577813,13.040641
+"Banashankari3rd stage bigbazar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Bagalur Main Road,Bangalore,Karnataka,India","Bagalur, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.668709,13.133187
+"Kodihalli,Bangalore,Karnataka,India","Kodihalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.646377,12.962448
+"Narayanapura,Bangalore,Karnataka,India","Narayanapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.647345,13.065686
+"Binny Mills Employees Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.607143,77.5913,12.97912
+"Bannerghatta Road,Bangalore,Karnataka,India","Bannerghatta Road, Dollars Colony, 560076, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6011747,12.9035841
+"Hennur,Bangalore,Karnataka,India","Hennur Road, Telecom Layout, 560043, HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.96,77.6312977,13.0359535
+"5th Phase JP Nagar,Bangalore,Karnataka,India","5th Phase, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.589649,12.900704
+"Kodigehaali,Bangalore,Karnataka,India","Kodigehalli, Kadugodi, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.727283,13.003167
+"Gopalapura,Bangalore,Karnataka,India","Gopalapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.427717,13.141469
+"Billekahalli,Bangalore,Karnataka,India","Bilekahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.606833,12.899363
+"Jalahalli,Bangalore,Karnataka,India","Jalahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.54838,13.046453
+"Mahadevpura,Bangalore,Karnataka,India","Mahadevpura, Mahadevapura, Bengaluru, Karnataka 560048, India",1.0,77.687106,12.991452
+"Anekal,Bangalore,Karnataka,India","Anekal, Karnataka, India",0.99,77.699397,12.708637
+"Hoodi Circle, ,Bangalore,Karnataka,India","Hoodi, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.716201,12.991903
+"Sompura,Bangalore,Karnataka,India","Sompura, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.774192,12.867956
+"Ashirvad Colony,Bangalore,Karnataka,India","Ashirvad Colony, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.65912,13.026016
+"Dodda Nekkundi,Bangalore,Karnataka,India","Dodda Nekkundi Extension, Kartik Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.704073,12.970606
+"K N Extension,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Hosur Road,Bangalore,Karnataka,India","Regus - Bangalore, Hosur Road, 1st & 2nd Floor, IBIS Hotel, Bommanahalli, Bengaluru, Karnataka 560068, India",1.0,77.6321,12.9007
+"Battarahalli,Bangalore,Karnataka,India","Battarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.704524,13.023805
+"Gokula Extension,Bangalore,Karnataka,India","Gokula Extension, Mathikere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558302,13.042362
+"Kamakshipalya,Bangalore,Karnataka,India","Kamaksipalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.527359,12.986182
+"Sultan Palaya,Bangalore,Karnataka,India","Sultan Road, 560002, Kalasipalayam, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.57674895,12.9640752
+"Sanne Amanikere,Bangalore,Karnataka,India","Sanne Amanikere, Devanahalli, Bengaluru Rural, Karnataka, India",0.886111,77.695985,13.232484
+"Amco Colony,Bangalore,Karnataka,India","AMCO Colony, Koti Hosahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.578489,13.055693
+"Ambalipura,Bangalore,Karnataka,India","Ambalipura, Harlur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.669317,12.910851
+"Hoodi,Bangalore,Karnataka,India","Hoodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.716201,12.991903
+"Samethanahalli,Bangalore,Karnataka,India","Samethanahalli, Hosakote, Bengaluru Rural, Karnataka, India",0.875,77.792816,12.977741
+"Brookefield,Bangalore,Karnataka,India","Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.717936,12.965209
+"Yelenahalli,Bangalore,Karnataka,India","Yelenahalli, Akshayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.613653,12.858681
+"Richmond Town,Bangalore,Karnataka,India","Richmond Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60416,12.962693
+"Suddaguntepalya,Bangalore,Karnataka,India","Suddaguntapalya, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.656622,12.983202
+"Udayapur Village,Bangalore,Karnataka,India","Village, Bangalore Central, JP Nagar, Bengaluru, Karnataka 560041, India",0.81,77.59196,12.91668
+"Vittasandra,Bangalore,Karnataka,India","Vittasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.638348,12.85339
+"Thippasandra,Bangalore,Karnataka,India","Tippasandra, Nelluru Puram, 560075, Kaggadasapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.6634104,12.9677841
+"Chikkabidarakallu,Bangalore,Karnataka,India","Chikkabidarakallu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.487488,13.049157
+"1 Giri Nagar,Bangalore,Karnataka,India","Giri Nagar, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.546423,12.942237
+"Hoysalanagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Defence Colony,Bangalore,Karnataka,India","Defence Colony, Indiranagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.643531,12.976171
+"2nd Stage Nagarbhavi,Bangalore,Karnataka,India","Nagarbhavi, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.513078,12.966418
+"Vidyaranyapura,Bangalore,Karnataka,India","Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.557731,13.076641
+"Amruthahalli,Bangalore,Karnataka,India","Amrutahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.600765,13.066232
+"ITI Employees Layout,Bangalore,Karnataka,India","ITI Employees Layout, Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.495563,12.967056
+"Kodigehalli,Bangalore,Karnataka,India","Kodigehalli, Kadugodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.727283,13.003167
+"Patelappa Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Ring Road Nagarbhavi,Bangalore,Karnataka,India","Nagarbhavi, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.513078,12.966418
+"NS Palya,Bangalore,Karnataka,India","NS Palya, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.606822,12.90812
+"Subramanyapura,Bangalore,Karnataka,India","Subramanyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.549378,12.894719
+"Basavangudi,Bangalore,Karnataka,India","Basavanagudi, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.575502,12.941726
+"Kenchenahalli,Bangalore,Karnataka,India","Kenchenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582474,13.116292
+"3rd Block Hrbr Layout,Bangalore,Karnataka,India","HRBR Layout, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.634008,13.025186
+"Bank Avenue,Bangalore,Karnataka,India","Bank Avenue, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.652862,13.023215
+"Surabhi Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Banjara Layout,Bangalore,Karnataka,India","Banjara Layout Main Road, Horamavu Agara, 560043, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6648626,13.0336492
+"Omkar Nagar,Bangalore,Karnataka,India","Omkar Nagar, Arekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.592974,12.881216
+"Kereguddadahalli,Bangalore,Karnataka,India","Kereguddadahalli, Chikkabanavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.516218,13.079413
+"Maragondanahalli,Bangalore,Karnataka,India","Maragondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.424661,12.931719
+"Silk Board,Bangalore,Karnataka,India","Silk Board Flyover, Central Silk Board Colony, 560068, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6224757,12.91762
+"Kada Agrahara,Bangalore,Karnataka,India","Kada Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.691613,13.080638
+"Kambipura,Bangalore,Karnataka,India","Kambipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.461552,12.87262
+"BHEL Layout,Bangalore,Karnataka,India","BHEL Layout, RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.509218,12.922384
+"Medahalli,Bangalore,Karnataka,India","Medahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.720608,13.027845
+"Banashankari Stage III,Bangalore,Karnataka,India","Banashankari Stage Ii, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.566538,12.922889
+"Kashi Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Sector 7 HSR Layout,Bangalore,Karnataka,India","Sector 7 Cafe, Bengaluru, Karnataka 560102, India",0.962381,77.633658,12.912302
+"Yemlur, Old Airport Road, ,Bangalore,Karnataka,India","Hal Old Airport Road, 560017, Kodihalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.835397,77.6481870368191,12.9590475
+"VHBCS Layout,Bangalore,Karnataka,India","BHBCS Layout, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.996806,77.601553,12.916052
+"Ittamadu,Bangalore,Karnataka,India","Ittamadu, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.544457,12.925005
+"Rajiv Nagar,Bangalore,Karnataka,India","Rajiv Nagar, Mysuru, Mysuru, Karnataka, India",0.772222,76.68206,12.332244
+"Gattahalli,Bangalore,Karnataka,India","Gattahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.702263,12.865805
+"Arekere,Bangalore,Karnataka,India","Arekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.596049,12.887209
+"Ramanjaneyanagar,Bangalore,Karnataka,India","Ramanjaneyanagar, Chikkalasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.540821,12.909761
+"Mico Layout,Bangalore,Karnataka,India","Mico Layout, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.602836,12.912829
+"7th Block Jayanagar,Bangalore,Karnataka,India","Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.582423,12.929273
+"2nd Phase JP Nagar,Bangalore,Karnataka,India","2nd Phase, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.588039,12.911667
+"Kammanahalli,Bangalore,Karnataka,India","Kammanahalli, Kacharakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.637379,13.015755
+"K G Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Banashankari,Bangalore,Karnataka,India","Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.550589,12.94175
+"Herohalli,Bangalore,Karnataka,India","Herohalli, Sunkadakatte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.489788,12.990029
+"Chikkabanavar,Bangalore,Karnataka,India","Chikkabanavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.501893,13.080377
+"HRBR Layout,Bangalore,Karnataka,India","HRBR Layout, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.634008,13.025186
+"Ashwini layout,Bangalore,Karnataka,India","Ashwini Layout, Ejipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.627682,12.940952
+"Marathalli bridge,Bangalore,Karnataka,India","Domlur Flyover, Old Airport Road, Bengaluru, Karnataka 560008, India",0.81,77.64236,12.958915
+"Dooravani Nagar,Bangalore,Karnataka,India","Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.670487,13.00741
+"JCR Layout,Bangalore,Karnataka,India","Jcr Layout, 560103, Panathur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.7044673,12.9335354
+"Nehru Nagar,Bangalore,Karnataka,India","Nehru Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.603323,13.093617
+"Kanakapura,Bangalore,Karnataka,India","Kanakapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.577635,12.94651
+"Papareddipalya,Bangalore,Karnataka,India","Papareddipalya, Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.504685,12.969443
+"Venkatapura,Bangalore,Karnataka,India","Venkatapura, Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.623089,12.918517
+"Sneha Colony,Bangalore,Karnataka,India","Sneha Colony, Chikkalasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.548466,12.915626
+"Konanakunte,Bangalore,Karnataka,India","Konanakunte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.569753,12.879286
+"Hosapalya,Bangalore,Karnataka,India","Hosapalaya, Muneshwara Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.996111,77.647912,12.896258
+"Doddagubbi,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Sector 6 HSR Layout,Bangalore,Karnataka,India","Sector 6, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.629926,12.913776
+"Margondanahalli,Bangalore,Karnataka,India","Maragondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.424661,12.931719
+"ITI Layout,Bangalore,Karnataka,India","ITI Layout, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.645589,12.90346
+"R.T. Nagar,Bangalore,Karnataka,India","RT Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.597758,13.020228
+"Tumkur Road,Bangalore,Karnataka,India","Tumkur Road, Vidya Nagar, 560022, Peenya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5127684,13.0365667
+"Vasanthapura,Bangalore,Karnataka,India","Vasanthapura, Subramanyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.546788,12.888874
+"Hosahalli,Bangalore,Karnataka,India","Hosahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.641836,13.14062
+"GM Palaya,Bangalore,Karnataka,India","GM Palya, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.992407,77.665408,12.974779
+"near Ramanashree California resort,Bangalore,Karnataka,India","Ramanashree California Resort, Anantapura Rd, Yelahanka, Bengaluru, Karnataka 560064, India",0.835397,77.577633,13.114738
+"6th block banashankari 3rd stage, 100 feet ORR,Bangalore,Karnataka,India","Banashankari 3rd Stage, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.696869,77.552044,12.922384
+"Jalahalli East,Bangalore,Karnataka,India","Jalahalli East, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.556105,13.064897
+"Poornapragna Housing Society Layout,Bangalore,Karnataka,India","Poornapragna Housing Society Layout, Kodipur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.53862,12.903865
+"Hosakerehalli,Bangalore,Karnataka,India","Hosakerehalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.53644,12.921191
+"Huskur,Bangalore,Karnataka,India","Huskur, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.707102,12.860767
+"Indira Nagar,Bangalore,Karnataka,India","Indira Nagar, Hegganahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.520781,12.994712
+"Shanthala Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Teachers Colony,Bangalore,Karnataka,India","Teacher's Colony, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.636768,12.91691
+"Bettahalsoor,Bangalore,Karnataka,India","Bettahalasur, Bengaluru, Bengaluru Urban, Karnataka, India",0.99,77.601688,13.158304
+"Srinivasa Nagar,Bangalore,Karnataka,India","Srinivasa Nagar, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.555956,12.933727
+"Sulthangunta,Bangalore,Karnataka,India","Sulthangunta, Shivaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6075,12.993406
+"Byrathi Village,Bangalore,Karnataka,India","Village, Bangalore Central, JP Nagar, Bengaluru, Karnataka 560041, India",0.81,77.59196,12.91668
+"Kodichikkanahalli,Bangalore,Karnataka,India","Kodichikknahalli, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.616177,12.895561
+"Ambedkar Colony,Bangalore,Karnataka,India","Ambedkar Colony, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.58807,13.090724
+"Varthur Road,Bangalore,Karnataka,India","Varthur Road, Siddapura, 560066, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.7221966,12.9556973
+"Anjappa Layout,Bangalore,Karnataka,India","Anjappa Layout, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.683476,12.990834
+"Avalahalli,Bangalore,Karnataka,India","Avalahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5718,13.135637
+"Prakruthi Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Sadaramangala,Bangalore,Karnataka,India","Sadaramangala, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.737509,12.998903
+"Anjanapura,Bangalore,Karnataka,India","Anjanapur, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.547656,12.851216
+"Abbigere,Bangalore,Karnataka,India","Abbigere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.528865,13.074274
+"Tindlu,Bangalore,Karnataka,India","Tindlu, Virupakshapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.566977,13.073717
+"B Narayanapura,Bangalore,Karnataka,India","B Narayanapura, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.675359,12.99308
+"Green Garden Layout,Bangalore,Karnataka,India","Green Garden Layout Road, Aishwarya Crystal Layout, 560068, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.64503675,12.8725271
+"Gubbalala,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Dairy Circle,Bangalore,Karnataka,India","Dairy Circle Flyover, Laljinagar, 560029, Wilson Garden, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6009419,12.9372574
+"Parappana Agrahara,Bangalore,Karnataka,India","Parappana Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.665297,12.880958
+"Jeevan bima nagar,Bangalore,Karnataka,India","Jeevan Bhima Nagar Main Road, Hal, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.929281,77.648903536559,12.9688503
+"Narayana Nagar 1st Block,Bangalore,Karnataka,India","Narayana Nagar 1st Block, Konanakunte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.554957,12.87388
+"KSRTC Layout,Bangalore,Karnataka,India","KSRTC Layout, Uttarahalli Hobli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.548423,12.910432
+"P&T Colony,Bangalore,Karnataka,India","P&T Colony, RT Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.593321,13.022139
+"Cunningham Road,Bangalore,Karnataka,India","Cunningham Road, 560052, Vasanth Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.595784040087,12.98520135
+"New Gurappana Palya,Bangalore,Karnataka,India","New Gurappana Palya, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.602636,12.920414
+"Chelekare,Bangalore,Karnataka,India","Chelekare, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.640807,13.026206
+"Palanahalli,Bangalore,Karnataka,India","Palanahalli, Magadi, Ramanagara, Karnataka, India",0.87,77.235885,13.111431
+"Vadarpalya,Bangalore,Karnataka,India","Vadarpalya, Hennur Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.641976,13.038191
+"Kudlu,Bangalore,Karnataka,India","Kudlu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.331603,12.971805
+"Shivanagar,Bangalore,Karnataka,India","Shivanagar, Basaweshwara Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.547984,12.990613
+"V.V Puram,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Sector 3 HSR Layout,Bangalore,Karnataka,India","Sector 3, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.642503,12.909103
+"Banashankari Stage VI,Bangalore,Karnataka,India","Banashankari Stage Ii, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.566538,12.922889
+"HMT Layout,Bangalore,Karnataka,India","HMT Layout, RT Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.592125,13.027652
+"Basavanagara,Bangalore,Karnataka,India","Basavanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.680453,12.968192
+"Cox Town,Bangalore,Karnataka,India","Cox Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.620868,12.995483
+"Kalasipalya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Kathriguppe,Bangalore,Karnataka,India","Kathriguppe, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.765176,12.914559
+"HBR Layout,Bangalore,Karnataka,India","HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.63236,13.03587
+"4 Bedroom Farm House in Bagalur,Bangalore,Karnataka,India","Bagalur, Bengaluru, Bengaluru Urban, Karnataka, India",0.651975,77.668709,13.133187
+"Yelahanka New Town,Bangalore,Karnataka,India","Yelahanka New Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.57097,13.103342
+"Sahakara Nagar,Bangalore,Karnataka,India","Sahakara Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.576062,13.068316
+"manyata park,Bangalore,Karnataka,India","Safari Tour, Anekal, Karnataka 560083, India",0.863111,77.576838,12.80011
+"Rachenahalli,Bangalore,Karnataka,India","Rachenahalli, Thanisandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.609036,13.067722
+"Belathur,Bangalore,Karnataka,India","Belatur, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.994375,77.751079,13.007864
+"Sadashiva Nagar,Bangalore,Karnataka,India","Sadashiva Nagar, Armane Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582475,13.008451
+"Yelachenahalli,Bangalore,Karnataka,India","Yelachenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.570575,12.900383
+"Shirdi Sai Layout,Bangalore,Karnataka,India","Pai Layout, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.811852,77.666666,12.994261
+"Kodbisanhalli,Bangalore,Karnataka,India","Kodbisanhalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.691036,12.948196
+"Sathya Sai Layout,Bangalore,Karnataka,India","Sathya Sai Layout, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.752244,12.97362
+"Indiranagar HAL 2nd Stage,Bangalore,Karnataka,India","Truefitt & Hill, Shop No. 598/1 Situated In Ground, Bengaluru, Karnataka 560008, India",0.859206,77.644264,12.969022
+"Vishwanatha Nagenahalli,Bangalore,Karnataka,India","Vishwanatha Naganahalli, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60163,13.040311
+"Singapura Village,Bangalore,Karnataka,India","Village, Bangalore Central, JP Nagar, Bengaluru, Karnataka 560041, India",0.81,77.59196,12.91668
+"Bendiganahalli,Bangalore,Karnataka,India","Bendiganahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.759254,13.068297
+"Hosakerehalli Layout,Bangalore,Karnataka,India","Hosakerehalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.53644,12.921191
+"Hennagara,Bangalore,Karnataka,India","Hennagara, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.673334,12.788308
+"Ferrar Nagar,Bangalore,Karnataka,India","Ananthapura Main Road, 560064, Central Reserve Police Force Area, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.5729163,13.1146665
+"Green Glen Layout,Bangalore,Karnataka,India","Green Glen Layout, Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.670188,12.926904
+"BAGUR,Bangalore,Karnataka,India","Begur Road, Bommanahalli, 560068, Bengaluru, Bengaluru Urban, Karnataka, India",0.94,77.6242766,12.9054849
+"Thubarahalli,Bangalore,Karnataka,India","Thubarahalli, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.72794,12.94022
+"M.G Road,Bangalore,Karnataka,India","Mahatma Gandhi Road, 560001, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6062716947901,12.975327
+"Naganathapura,Bangalore,Karnataka,India","Naganathapura, Rayasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.663895,12.870178
+"Horamavu Banaswadi,Bangalore,Karnataka,India","Horamavu Road, Jayanti Nagar, 560113, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",0.87,77.6689079,13.024357
+"1st Phase JP Nagar,Bangalore,Karnataka,India","JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.586607,12.909694
+"Kaverappa Layout,Bangalore,Karnataka,India","Kaverappa Layout, Kadubeesanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.700846,12.936766
+"NGR Layout,Bangalore,Karnataka,India","NR Layout, Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.994167,77.67085,13.000672
+"Divya Unnathi Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Vasantha Vallabha Nagar,Bangalore,Karnataka,India","Vasantha Vallabha Nagar, Bikasipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.555207,12.888842
+"sapthagiri Layout,Bangalore,Karnataka,India","Saptagiri Layout, Hosakerehalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.530451,12.918855
+"Seegehalli,Bangalore,Karnataka,India","Seegehalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.461424,12.814396
+"BEML Layout,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.719206,12.959966
+"Alur,Bangalore,Karnataka,India","Alur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.465069,13.085603
+"Devarabisanahalli,Bangalore,Karnataka,India","Devarabisanahalli, Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.691266,12.932331
+"NRI Layout,Bangalore,Karnataka,India","NRI Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.680045,13.031009
+"Sidedahalli,Bangalore,Karnataka,India","Sidedahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.49816,13.068522
+"Dwarka Nagar,Bangalore,Karnataka,India","Dwarka Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.621179,13.124416
+"ITPL,Bangalore,Karnataka,India","ITPL, Whitefield Road, Bengaluru, Karnataka 560066, India",1.0,77.73556,12.985786
+"Thurahalli,Bangalore,Karnataka,India","Thurahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.520279,12.882848
+"Hallehalli,Bangalore,Karnataka,India","Hallehalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.704971,13.030735
+"Kattigenahalli,Bangalore,Karnataka,India","Kattigenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.627356,13.119435
+"Marathi Layout,Bangalore,Karnataka,India","Maruthi Layout, Kempe Gowda Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.99869,77.570716,13.060851
+"Weavers Colony,Bangalore,Karnataka,India","Weavers Colony, Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.583129,12.845495
+"Raghavendra Nagar,Bangalore,Karnataka,India","Raghavendra Nagar, Kalkere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.675451,13.023111
+"KR Layout,Bangalore,Karnataka,India","KR Layout, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582815,12.903422
+"Babusapalaya,Bangalore,Karnataka,India","Babusabpalya, Hennur Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.646628,13.025237
+"Nagappa Reddy Layout,Bangalore,Karnataka,India","Nagappa Reddy Layout, Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.675195,13.008142
+"Kempapura,Bangalore,Karnataka,India","Kempapura, Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.67412,12.948172
+"BTM 1st Stage,Bangalore,Karnataka,India","BTM, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.599264,12.914268
+"Kariyammana Agrahara,Bangalore,Karnataka,India","Kariyammana Agrahara, Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.682347,12.933257
+"Hessarghatta,Bangalore,Karnataka,India","Hesarghatta Road, 560097, Madi Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",0.951667,77.5304733,13.0996791
+"Binnamangala,Bangalore,Karnataka,India","Binnamangala, Indiranagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.639052,12.981236
+"Suraksha Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Lakshmi Layout,Bangalore,Karnataka,India","Lakshmi Road, 560027, Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.5969849,12.9580543
+"Iblur Village,Bangalore,Karnataka,India","Iblur Village, Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.663343,12.922544
+"Kadugondanahalli,Bangalore,Karnataka,India","Kadugondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.621546,13.020703
+"Basava Nagar,Bangalore,Karnataka,India","Basava Nagar, Bidar, Bidar, Karnataka, India",0.772222,77.512099,17.883814
+"2nd Block Hrbr Layout,Bangalore,Karnataka,India","HRBR Layout, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.634008,13.025186
+"Ananth Nagar,Bangalore,Karnataka,India","Ananth Nagar, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.684897,12.835916
+"Canara Bank Layout,Bangalore,Karnataka,India","Canara Bank Layout, Rajiv Gandhi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.578355,13.068572
+"Narasapura,Bangalore,Karnataka,India","Narasipura, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.463055,13.11005
+"Manjunath Nagar,Bangalore,Karnataka,India","Manjunath Nagar, Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.548053,12.993951
+"Basapura,Bangalore,Karnataka,India","Basapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.653681,12.865999
+"Channasandra,Bangalore,Karnataka,India","Channasandra, Bengaluru, Karnataka 560098, India",1.0,77.519655,12.900561
+"Singena Agrahara,Bangalore,Karnataka,India","Singena Agrahara, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.715312,12.838353
+"Sector 1 HSR Layout,Bangalore,Karnataka,India","Sector 1, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.652492,12.91763
+"Mango Garden Layout,Bangalore,Karnataka,India","Mango Garden Layout, Bikasipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.563019,12.893837
+"Kacharakanahalli,Bangalore,Karnataka,India","Kacharakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.637379,13.015755
+"Bidere Agarahara, Behind Safal market,Bangalore,Karnataka,India","Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",0.667407,77.617445,13.083161
+"Grihalakshmi Layout,Bangalore,Karnataka,India","Grihalakshmi Layout, Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.544671,12.993582
+"Gopalkrishna Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Choodasandra,Bangalore,Karnataka,India","Choodasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.688108,12.883848
+"Sai Gardens,Bangalore,Karnataka,India","Sai Gardens, Belatur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.755405,13.015336
+"Dodda Kempaiah Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Hanumanth Nagar,Bangalore,Karnataka,India","Hanumanth Nagar Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6566804,12.9706693
+"Kaikondrahalli,Bangalore,Karnataka,India","Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.685316,12.912366
+"Hunasamaranahalli,Bangalore,Karnataka,India","Hunasamaranahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.619124,13.14401
+"RWF West Colony,Bangalore,Karnataka,India","East Colony, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",0.81303,77.59241,13.098193
+"Bileshivale,Bangalore,Karnataka,India","Bileshivali, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.671022,13.054331
+"Neeladri Nagar,Bangalore,Karnataka,India","Neeladri Nagar, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.647612,12.83871
+"Frazer Town,Bangalore,Karnataka,India","Barista, 94, Mosque Road, Frazer Town, Bengaluru, Karnataka 560005, India",1.0,77.614162,12.996865
+"Williams Town,Bangalore,Karnataka,India","Williams Town, Benson Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60815,13.000077
+"Jaya Nagar East,Bangalore,Karnataka,India","Jaya Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.589391,12.918644
+"Iggalur,Bangalore,Karnataka,India","Iggalur, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.70073,12.775936
+"Cooke Town,Bangalore,Karnataka,India","Cooke Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.620268,13.000846
+"Doddakallasandra,Bangalore,Karnataka,India","Doddakallasandra, Konanakunte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.559292,12.881345
+"Chokkanahalli,Bangalore,Karnataka,India","Chokkanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.632481,13.083117
+"Chikkaballapur,Bangalore,Karnataka,India","Punjabi By Nature, 6, Krishna Industrial Estate, Hosur Road, Bengaluru, Karnataka 560029, India",0.735536,77.608909,12.934954
+"Chamrajpet,Bangalore,Karnataka,India","Chamrajpet, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.562916,12.958418
+"VGP Layout,Bangalore,Karnataka,India","VGP Layout, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.652598,12.891182
+"Classic Paradise Layout,Bangalore,Karnataka,India","Classic Paradise Layout, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.620672,12.878582
+"Byappanahalli,Bangalore,Karnataka,India","Byappanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.720016,13.072126
+"Vasanth nagar,Bangalore,Karnataka,India","Vasanth Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.594141,12.991455
+"Rayasandra,Bangalore,Karnataka,India","Rayasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.672892,12.873402
+"Kalkere,Bangalore,Karnataka,India","Kalkere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.673808,13.03509
+"T.C. Palya,Bangalore,Karnataka,India","Tc Palaya Road, 560016, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.990208,77.6930892,13.0098552
+"Siddapura,Bangalore,Karnataka,India","Siddapura, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.730974,12.95426
+"Makali,Bangalore,Karnataka,India","Makali, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.454464,13.067816
+"Vibuthipura,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"5th Block Hbr Layout,Bangalore,Karnataka,India","HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.63236,13.03587
+"Pai Layout,Bangalore,Karnataka,India","Pai Layout, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.666666,12.994261
+"Defence Layout,Bangalore,Karnataka,India","Defence Layout, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558454,13.083324
+"Roopena Agrahara,Bangalore,Karnataka,India","Roopena Agrahara, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.623826,12.91064
+"Banashankari Stage V,Bangalore,Karnataka,India","Banashankari Stage Ii, Bengaluru, Bengaluru Urban, Karnataka, India",0.772963,77.566538,12.922889
+"Coconut Garden,Bangalore,Karnataka,India","Coconut Garden, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.598676,13.036561
+"Gollahalli,Bangalore,Karnataka,India","Gollahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.563266,12.844661
+"Sonnenahalli,Bangalore,Karnataka,India","Sonnenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.500349,13.197949
+"D Souza Layout,Bangalore,Karnataka,India","D' Souza Road, 560 025, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.772963,77.60172615,12.967554
+"ECC Road, Whitefield, ,Bangalore,Karnataka,India","Ecumenical Christian Center Road, Pattandur Agrahara, 560066, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.7397408,12.9766481
+"Seetharampalya,Bangalore,Karnataka,India","Seetharampalya, Hoodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.715538,12.983795
+"Rukmaiah Layout,Bangalore,Karnataka,India","Rukmaiah Layout, Hulimavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.611936,12.877846
+"Devanahalli Int. Airport,Bangalore,Karnataka,India","Kempegowda International Airport (BLR), Devanahalli, Devanahalli, Karnataka 560300, India",0.53,77.7072355,13.1997185
+"Puttanahalli,Bangalore,Karnataka,India","Puttenahalli, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.580699,12.895432
+"Benson Town,Bangalore,Karnataka,India","Benson Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.604175,12.997803
+"Devasandra Extension,Bangalore,Karnataka,India","Devasandra Extension, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.699441,13.008473
+"2nd Phase Judicial Layout,Bangalore,Karnataka,India","2nd Phase, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.588039,12.911667
+"1st Block HRBR Layout,Bangalore,Karnataka,India","HRBR Layout, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.634008,13.025186
+"Sarjapur Road, ,Bangalore,Karnataka,India","Sarjapura Road, 560035, Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.687841195793,12.90982715
+"Byadarahalli,Bangalore,Karnataka,India","Byadarahalli, Benson Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.604395,12.997894
+"Poorna Pragna Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Judicial Layout,Bangalore,Karnataka,India","Judicial Layout, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.587819,13.075764
+"Varthur Road, ,Bangalore,Karnataka,India","Varthur Road, Siddapura, 560066, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.7221966,12.9556973
+"Chikka Banaswadi,Bangalore,Karnataka,India","Chikka Banaswadi, Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.646225,13.008583
+"Outer Ring Road East,Bangalore,Karnataka,India","Sarjapura Road, 560035, Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.835397,77.687841195793,12.90982715
+"Kavika Layout,Bangalore,Karnataka,India","Kalika Nagar, Ragavendra Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.756667,77.495622,13.011392
+"Vinayaka Nagar,Bangalore,Karnataka,India","Vinayaka Nagar, HAL, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.658972,12.954709
+"Banashankari Stage II,Bangalore,Karnataka,India","Banashankari Stage Ii, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.566538,12.922889
+"Hennur Busstop,Bangalore,Karnataka,India","Hennur Road, Telecom Layout, 560043, HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.6312977,13.0359535
+"GB Palya,Bangalore,Karnataka,India","GM Palya, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.990208,77.665408,12.974779
+"AMS Layout,Bangalore,Karnataka,India","AMS Layout, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558704,13.087148
+"9th Block Jayanagar,Bangalore,Karnataka,India","9th Block, Nagarbhavi, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.514819,12.960198
+"Karuna Nagar,Bangalore,Karnataka,India","Karuna Nagar, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.647099,12.84357
+"Ashwathnagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Gaurava Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Kengeri Satellite Town ( BDA SITE),Bangalore,Karnataka,India","Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.787778,77.486964,12.923649
+"AGS Layout,Bangalore,Karnataka,India","AGS Layout, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.540098,12.916484
+"Srinagar,Bangalore,Karnataka,India","Srinagar, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.548469,12.953299
+"Brigade Road,Bangalore,Karnataka,India","Brigade Road, 560025, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6066965,12.9698386
+"Bannerghatta,Bangalore,Karnataka,India","Bannerughatta, Anekal, Bengaluru Urban, Karnataka, India",0.979583,77.578951,12.813337
+"Maruthi HBCS Layout,Bangalore,Karnataka,India","Maruthi HBCS Layout, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.607018,12.92094
+"Devanahalli Road,Bangalore,Karnataka,India","Devanahalli, Karnataka, India",0.696,77.713438,13.24835
+"Green Woods Layout,Bangalore,Karnataka,India","Green Woods Layout, Varanasi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.689498,13.030548
+"Craig Park Layout,Bangalore,Karnataka,India","Craig Park Layout, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.615839,12.971383
+"Immadihalli,Bangalore,Karnataka,India","Immadihalli, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.762046,12.966399
+"Banagiri Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Hiremath Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Jnanabharathi Layout,Bangalore,Karnataka,India","Gnanabharathi, Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.802308,77.492704,12.926461
+"Chikkasandra,Bangalore,Karnataka,India","Chikkasandra, Jalahalli West, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.509898,13.065754
+"Bharath Housing Society Layout,Bangalore,Karnataka,India","Bharath Housing Society Layout, Subramanyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.529623,12.902898
+"3rd Block Jayanagar,Bangalore,Karnataka,India","3rd Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.547536,12.933756
+"Manjunatha Layout,Bangalore,Karnataka,India","Manjunatha Layout, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.700499,13.008052
+"Konanakunte Cross,Bangalore,Karnataka,India","Konanakunte Cross, Kanakapura Rd, Bengaluru, Karnataka, Bengaluru, Karnataka 560062, India",1.0,77.563506,12.889549
+"Abbaiah Reddy Layout,Bangalore,Karnataka,India","Reddy Street, 560064, Central Reserve Police Force Area, Bengaluru, Bengaluru Urban, Karnataka, India",0.713704,77.5696309,13.114818
+"Tavarekere,Bangalore,Karnataka,India","Tavarekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.401424,12.963694
+"Thirumenahalli,Bangalore,Karnataka,India","Thirumenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.753053,13.110933
+"KPC Layout,Bangalore,Karnataka,India","KPC Layout, Kasavanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.678556,12.903126
+"HOSUR MAIN ROAD,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Nandi Durga Road,Bangalore,Karnataka,India","Nandi Durga Road, Jayamahal Extension, 560046, Jayamahal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5983438,13.0022742
+"Kumara Park,Bangalore,Karnataka,India","Kumara Park East, Sheshadripuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.582224,12.993489
+"Daadys Gaarden Layout,Bangalore,Karnataka,India","Garden Layout, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.815556,77.646766,12.906691
+"Maruthi Nagar,Bangalore,Karnataka,India","Maruthi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.540362,13.00858
+"Marsur,Bangalore,Karnataka,India","Marasur, Anekal, Bengaluru Urban, Karnataka, India",0.969167,77.713078,12.762543
+"Kallumantapa,Bangalore,Karnataka,India","Kallumantapa, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.662673,13.01567
+"Malimakanapura,Bangalore,Karnataka,India","Malimakanapura, Hosakote, Bengaluru Rural, Karnataka, India",0.87,77.848669,13.127524
+"Rustam Bagh Layout,Bangalore,Karnataka,India","Rustam Bagh Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.650033,12.954624
+"New Thippasandra,Bangalore,Karnataka,India","New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.653693,12.973696
+"Garden Layout,Bangalore,Karnataka,India","Garden Layout, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.646766,12.906691
+"Viswapriyanagar.begur Road.bommanahalli.,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"T K Reddy Layout,Bangalore,Karnataka,India","Reddy Street, 560064, Central Reserve Police Force Area, Bengaluru, Bengaluru Urban, Karnataka, India",0.673492,77.5696309,13.114818
+"Kumbena Agrahara,Bangalore,Karnataka,India","Kumbena Agrahara, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.747388,13.001797
+"Pai layout , Mahadevapura,Bangalore,Karnataka,India","Pai Layout, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.666666,12.994261
+"frazertown,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Akshayanagara East,Bangalore,Karnataka,India","Akshayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.802308,77.617139,12.871779
+"Doddanekundi,Bangalore,Karnataka,India","Doddanekundi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.681376,12.97517
+"Venkatadri Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Bommenahalli,Bangalore,Karnataka,India","Bommenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.746594,13.074254
+"Mahaganapathy Nagar,Bangalore,Karnataka,India","Mahaganapathy Nagar, Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.59718,12.86105
+"Andrahalli,Bangalore,Karnataka,India","Andrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.483033,13.008594
+"Vittal Nagar,Bangalore,Karnataka,India","Vittal Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.554638,12.951647
+"2Electronic City Phase II,Bangalore,Karnataka,India","2 Electronic City Elevated Expressway, Doddathoguru, 560100, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",0.718683,77.667198,12.852386
+"3rd Block Banashankari,Bangalore,Karnataka,India","3rd Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.547536,12.933756
+"Bhuvaneshwari Nagar,Bangalore,Karnataka,India","Bhuvaneshwari Nagar, T. Dasarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.508669,13.056134
+"Kadarenahalli,Bangalore,Karnataka,India","Kadarenahalli, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.563402,12.91606
+"Laggere,Bangalore,Karnataka,India","Laggere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.523522,13.00863
+"Victoria Layout,Bangalore,Karnataka,India","Victoria Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.614268,12.965658
+"Prithvi Layout,Bangalore,Karnataka,India","Prithvi Layout, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.743645,12.977178
+"Subramanyanagar,Bangalore,Karnataka,India","Subramanyanagar, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.556799,13.004445
+"1 Ramamurthy Nagar,Bangalore,Karnataka,India","Ramamurthi Nagar Main Road, Jayanti Nagar, 560016, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",0.926944,77.6741205,13.0200635
+"5th Stage BEML Layout,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.719206,12.959966
+"IVC Road,Bangalore,Karnataka,India","Ivc Road, 562110, Arasanahalli Peddanahalli, Devanahalli, Bengaluru Rural, Karnataka, India",0.886111,77.6448957,13.2307118
+"Jaya Mahal layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"BSM Extension,Bangalore,Karnataka,India","BSM Extension, Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.474824,12.912
+"Vijinapura,Bangalore,Karnataka,India","Vijinapura, Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.674427,13.002192
+"Banaswadi,Bangalore,Karnataka,India","Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651854,13.014162
+"P&T Layout,Bangalore,Karnataka,India","P&T Layout, Thanisandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.62971,13.060678
+"Byrasandra,Bangalore,Karnataka,India","Byrasandra, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.667778,12.980546
+"SBM Colony,Bangalore,Karnataka,India","SBM Colony, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.560291,12.941193
+"Veerannapalya,Bangalore,Karnataka,India","Veerannapalya, Nagavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.612695,13.041505
+"Chowdeshwari Layout,Bangalore,Karnataka,India","Chowdeshwari Layout, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.59675,13.10573
+"Mathikere Extension,Bangalore,Karnataka,India","Mathikere Extension, Mathikere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.561791,13.030956
+"Sector 2 HSR Layout,Bangalore,Karnataka,India","Sector 2, PWD Quarters, Bengaluru, Bengaluru Urban, Karnataka, India",0.890952,77.653787,12.921839
+"Anantapura,Bangalore,Karnataka,India","Anantapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.572202,13.113206
+"Shivaji Nagar,Bangalore,Karnataka,India","Shivaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.607542,12.986391
+"Badavala Nagar,Bangalore,Karnataka,India","Badavala Nagar, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.687675,12.994757
+"4th Block Koramangala,Bangalore,Karnataka,India","4th Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.549232,12.929502
+"Belatur,Bangalore,Karnataka,India","Belatur, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.751079,13.007864
+"Lalbagh Road,Bangalore,Karnataka,India","Lalbagh Road, 560027, Sudama Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5866767220934,12.958254075
+"Kamakya Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Vignana Nagar,Bangalore,Karnataka,India","Vignan Nagar, Doddanekundi, Bengaluru, Bengaluru Urban, Karnataka, India",0.997821,77.681376,12.97517
+"Nallurhalli,Bangalore,Karnataka,India","Nallurhalli, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.734502,12.969662
+"Chinnapanahalli,Bangalore,Karnataka,India","Chinnappanahalli Road, Chennappa Layout, 560037, Chinnapanna Halli, Bengaluru, Bengaluru Urban, Karnataka, India",0.953333,77.7042426,12.9612173
+"Lingarajapuram,Bangalore,Karnataka,India","Lingarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.627829,13.011768
+"3rd Block HBR Layout,Bangalore,Karnataka,India","HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.63236,13.03587
+"Laxmi Sagar Layout,Bangalore,Karnataka,India","Laxmi Sagar Layout, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.695895,12.985609
+"Nelamangala,Bangalore,Karnataka,India","Nelamangala, Karnataka, India",0.87,77.396359,13.095302
+"Nagavarapalya,Bangalore,Karnataka,India","Nagavarapalya, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.668955,12.987034
+"Hongasandra,Bangalore,Karnataka,India","Hongasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.629785,12.895703
+"Harappanahalli,Bangalore,Karnataka,India","Harapanahalli, Anekal, Bengaluru Urban, Karnataka, India",0.981071,77.622686,12.790476
+"BTM Layout,Bangalore,Karnataka,India","BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.610282,12.915177
+"Chennammana Kere,Bangalore,Karnataka,India","Chennammana Kere, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.555647,12.927718
+"Kanaka Nagar,Bangalore,Karnataka,India","Kanaka Nagar, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.608206,13.037411
+"Tasker Town,Bangalore,Karnataka,India","Tasker Town, Sivanchetti Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.605818,12.980162
+"Govindpura,Bangalore,Karnataka,India","Govindpura, Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.666762,13.008171
+"NR Colony,Bangalore,Karnataka,India","NR Colony, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.568878,12.938203
+"Agara Village,Bangalore,Karnataka,India","Agara Village, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.639943,12.918452
+"Shettigere,Bangalore,Karnataka,India","Settigere, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.636086,13.20213
+"Kenchanehalli R R Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.607143,77.5913,12.97912
+"BEL Road,Bangalore,Karnataka,India","Bel Road, Amarjyothi Layout, 560094, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5688378,13.0347021
+"Byagadadhenahalli,Bangalore,Karnataka,India","Byagadadenahalli, Anekal, Bengaluru Urban, Karnataka, India",0.982647,77.701482,12.742629
+"Doddabommasandra,Bangalore,Karnataka,India","Doddabommasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.563224,13.053103
+"Maruthi Layout,Bangalore,Karnataka,India","Maruthi Layout, Kempe Gowda Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.570716,13.060851
+"Sree Narayana Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Tunganagara,Bangalore,Karnataka,India","Tunganagara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.485275,12.986308
+"BTM 2nd Stage,Bangalore,Karnataka,India","BTM 2nd Stage, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.613139,12.913949
+"Remco Bhel Layout,Bangalore,Karnataka,India","BHEL Layout, RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.509218,12.922384
+"Chokkasandra,Bangalore,Karnataka,India","Chokkasandra, Peenya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.515598,13.038566
+"Panduranga Nagar,Bangalore,Karnataka,India","Panduranga Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.596135,12.893076
+"Sri Venkateshpura Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Jakkur Plantation,Bangalore,Karnataka,India","Jakkuru, Bengaluru, Bengaluru Urban, Karnataka, India",0.793333,77.606894,13.078474
+"Sir M V Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.607143,77.5913,12.97912
+"Bikasipura,Bangalore,Karnataka,India","Bikasipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.555207,12.888842
+"Basaveshwara Nagar Yelahanka,Bangalore,Karnataka,India","Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.817613,77.539132,12.993757
+"1st Block Koramangala,Bangalore,Karnataka,India","1st Block Koramangala, Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.635939,12.925952
+"Hoskote,Bangalore,Karnataka,India","Hosakote, Karnataka, India",0.87,77.792138,13.073014
+"Attiguppe,Bangalore,Karnataka,India","Attiguppe, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.526713,12.960491
+"Srirampuram,Bangalore,Karnataka,India","Srirampuram, Factory, Bengaluru, Karnataka 560010, India",1.0,77.5604,12.983096
+"Yemlur,Bangalore,Karnataka,India","Yemalur, Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",0.989167,77.681521,12.946329
+"Race Course Road,Bangalore,Karnataka,India","Race Course Road, Madhava Nagar, 560001, Gandhi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.581388324461,12.9840638
+"Gkvk Layout,Bangalore,Karnataka,India","GKVK, Bengaluru, Karnataka 560065, India",0.81,77.578114,13.078221
+"St. John's Road,Bangalore,Karnataka,India","St. John's Road, 560042, Sivanchetti Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6144397,12.9846186
+"Doopanahalli,Bangalore,Karnataka,India","Doopanahalli, Indiranagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.639638,12.967458
+"Doddaballapur,Bangalore,Karnataka,India","Doddaballapur Road, Ambedkar Colony, 560064, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",0.96,77.5940975,13.0899935
+"Sathanur,Bangalore,Karnataka,India","Sathanur, Kanakapura, Ramanagara, Karnataka, India",0.87,77.319945,12.460189
+"Ramamohanapuram,Bangalore,Karnataka,India","Ramamohanapuram, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.562655,12.997748
+"kanakapura road,Bangalore,Karnataka,India","HSR Services, Bengaluru, Karnataka 560078, India",1.0,77.5724,12.896796
+"Kaveri Nagar,Bangalore,Karnataka,India","Kaveri Nagar, Murugeshpalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.655397,12.957427
+"Sundar Ram Shetty Nagar,Bangalore,Karnataka,India","Sundar Ram Shetty Nagar, Bilekahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.601649,12.896148
+"Kirloskar layout, Basaveshwarnagar,Bangalore,Karnataka,India","Kirloskar Layout, Soundarya Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.500931,13.066964
+"Alfa Garden Layout,Bangalore,Karnataka,India","Garden Layout, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.646766,12.906691
+"Gowdanapalya,Bangalore,Karnataka,India","Gowdanapalya, Uttarahalli Hobli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.556583,12.909109
+"Hoodi Layout,Bangalore,Karnataka,India","Hoodi, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.716201,12.991903
+"Gaundanapalya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Arasanakunte,Bangalore,Karnataka,India","Arasinakunte, Nelamangala, Bengaluru Rural, Karnataka, India",0.864583,77.403222,13.090938
+"5th block Koramangala,Bangalore,Karnataka,India","Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.62223,12.934011
+"JakkurYelahanka,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Gunjur Palya,Bangalore,Karnataka,India","Gunjur, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.736102,12.920977
+"Upkar Layout,Bangalore,Karnataka,India","Upkar Layout, Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.480699,12.963889
+"Sunkadakatte,Bangalore,Karnataka,India","Sunkadakatte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.49887,12.985229
+"Someshwara Layout,Bangalore,Karnataka,India","Someshwara Layout, Hulimavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.607272,12.876208
+"Kathreguppe,Bangalore,Karnataka,India","Kathreguppe, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558114,12.931336
+"Channasandra Layout,Bangalore,Karnataka,India","Channasandra, Bengaluru, Karnataka 560098, India",0.81,77.519655,12.900561
+"HAL 3rd Stage,Bangalore,Karnataka,India","2nd Cross Hal 3rd Stage, BDA Colony, 560017, Jeevanbheemanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.937778,77.65648505,12.9612282
+"Doctors Layout,Bangalore,Karnataka,India","Doctors Layout, Bennigana Halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.658329,13.0082
+"Austin Town,Bangalore,Karnataka,India","Austin Town New Township, Neelasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.997333,77.615293,12.961274
+"Rajagopala Nagar,Bangalore,Karnataka,India","Rajagopala Nagar, Peenya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.511831,13.012636
+"Vishwapriya Nagar,Bangalore,Karnataka,India","Vishwapriya Nagar, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.626669,12.881082
+"Sarakki Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Bahubali Nagar,Bangalore,Karnataka,India","Bahubali Nagar, Jalahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.549215,13.045067
+"Lottegolla Halli,Bangalore,Karnataka,India","Hall Road, 560005, Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.754,77.6161694692944,13.0041613
+"Nandini Layout,Bangalore,Karnataka,India","Nandini Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.537803,13.010406
+"Vibhutipura Extension,Bangalore,Karnataka,India","Vibhutipura, Marathahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.690691,12.966631
+"B Channasandra,Bangalore,Karnataka,India","B Channasandra, Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.660142,13.009622
+"Dollars Colony,Bangalore,Karnataka,India","Dollars Colony, RMV Extension Stage 2, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.567815,13.041367
+"Arehalli,Bangalore,Karnataka,India","Arehalli, Kodipur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.542953,12.91133
+"Cambridge  road,Bangalore,Karnataka,India","Cambridge Road, 560008, Jogupalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6278036,12.9719967
+"Hennur Gardens,Bangalore,Karnataka,India","Hennur Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.64329,13.037691
+"Thyagaraja Nagar,Bangalore,Karnataka,India","Thyagaraja Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.568301,12.931392
+"Howthinarayanappa Garden,Bangalore,Karnataka,India","Howthinarayanappa Garden, Jalahalli East, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.555875,13.064477
+"Bharathi Nagar,Bangalore,Karnataka,India","Bharathi Nagar, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.72172,13.015461
+"SRINIVASAPURA,Bangalore,Karnataka,India","Srinivaspura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.627917,13.105626
+"Cambridge Layout,Bangalore,Karnataka,India","Cambridge Layout, Jogupalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.627776,12.970123
+" ittamadu,Bangalore,Karnataka,India","Ittamadu, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.544457,12.925005
+"Doddakannelli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Pulkeshi Nagar,Bangalore,Karnataka,India","Pulikeshi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.99869,77.613875,12.997141
+"Thanisandra Main Road, ,Bangalore,Karnataka,India","Thanisandra Main Road, Sri Balaji Krupa Layout, 560077, R.K. Hegde Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.631672,13.0649791
+"Jayanagar,Bangalore,Karnataka,India","Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582423,12.929273
+" Bhoganhalli,Bangalore,Karnataka,India","Bhoganhalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.698998,12.918217
+"Kumbalgodu,Bangalore,Karnataka,India","Kumbalgodu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.446763,12.878617
+"banashankari stage iii sa,Bangalore,Karnataka,India","Banashankari Stage Ii, Bengaluru, Bengaluru Urban, Karnataka, India",0.828543,77.566538,12.922889
+"Amruthnagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Palace Guttahalli,Bangalore,Karnataka,India","Palace Guttahalli Main Road, 560003, Guttahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.5783881,12.9991964
+"Akshya Nagar,Bangalore,Karnataka,India","Akshya Nagar, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.683885,13.023082
+" Anekal,Bangalore,Karnataka,India","Anekal, Karnataka, India",0.99,77.699397,12.708637
+"BCC Layout,Bangalore,Karnataka,India","BMC Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.994167,77.550377,12.880523
+"Mathikere,Bangalore,Karnataka,India","Mathikere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558563,13.034608
+"Friends Colony,Bangalore,Karnataka,India","FRIENDS, 20th Main Rd, Jaibhima Nagar, BTM Layout 1, Bengaluru, Karnataka 560076, India",0.81,77.612342,12.91671
+"Doddabidrakallu,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Sri Balaji Krupa Layout,Bangalore,Karnataka,India","Sri Balaji Krupa Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.631757,13.061864
+"Bidadi,Bangalore,Karnataka,India","Bidadi, Ramanagara, Ramanagara, Karnataka, India",0.87,77.386995,12.798851
+"Sampige Layout,Bangalore,Karnataka,India","Sampige Layout, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.528243,12.97647
+"Virgonagar,Bangalore,Karnataka,India","Virgonagar, Aavalahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.745179,13.045326
+"Dodsworth Layout,Bangalore,Karnataka,India","Dodsworth Layout, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.746258,12.97044
+"Kudlu Village, ,Bangalore,Karnataka,India","Kudlu Road, Hosapalaya, 560068, Muneshwara Nagar, Anekal, Bengaluru Urban, Karnataka, India",0.823111,77.6491731,12.8912561
+"Rajiv Gandhi Nagar,Bangalore,Karnataka,India","Rajiv Gandhi Nagar, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.630017,12.90932
+"Kurubarahalli,Bangalore,Karnataka,India","Kurubarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.400924,12.971592
+"Sector 4 HSR Layout,Bangalore,Karnataka,India","Sector 4, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.641378,12.913778
+"Bhagyalakshmi Avenue,Bangalore,Karnataka,India","Avenue Road, 560053, Chickpet, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.5794938,12.9694587
+"Kengeri Hobli,Bangalore,Karnataka,India","Kengeri, Bengaluru, Karnataka 560060, India",0.81,77.48132050000001,12.908838
+"Vyalikaval,Bangalore,Karnataka,India","Vyalikaval, Malleshwaram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.57517,13.004264
+"Banaswadi, ,Bangalore,Karnataka,India","Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651854,13.014162
+"Balaji Gardens Layout,Bangalore,Karnataka,India","Balaji Gardens Layout, Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.596808,12.85875
+"Thavarekere,Bangalore,Karnataka,India","Tavarekere, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.401424,12.963694
+"HAL 2nd Stage,Bangalore,Karnataka,India","HAL 2nd Stage, Indiranagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.638228,12.968638
+" Devarabeesana Halli,Bangalore,Karnataka,India","Hall Road, 560005, Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.754,77.6161694692944,13.0041613
+" Rachenahalli,Bangalore,Karnataka,India","Rachenahalli, Thanisandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.609036,13.067722
+"Tippenahalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Prestige Sunrise,Bangalore,Karnataka,India","Sunrise Restaurant, Bengaluru, Karnataka 560058, India",0.77,77.519458,13.02219
+"1st Stage Indira Nagar,Bangalore,Karnataka,India","Indira Nagar, Hegganahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.520781,12.994712
+"Srigandada Kaval,Bangalore,Karnataka,India","Kavali, Opp. Chennamanakere Bus Stand, Bengaluru, Karnataka 560085, India",0.79,77.55601,12.928059
+"Viswajit Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Adityanagar,Bangalore,Karnataka,India","Adityanagar, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.550727,13.084546
+"BDS Layout,Bangalore,Karnataka,India","BDS Layout, R.K. Hegde Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.628803,13.06493
+"Shanthi Layout,Bangalore,Karnataka,India","Shanthi Layout Main Road, 560016, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6844246,13.0160177
+"Esther Enclave Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Volagerekallahalli,Bangalore,Karnataka,India","Volagerekallahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.778454,12.880424
+"Keerthi Layout,Bangalore,Karnataka,India","Keerthi Layout, Suryanagar, Anekal, Bengaluru Urban, Karnataka, India",0.990889,77.699984,12.80267
+"Ganga Nagar Extension,Bangalore,Karnataka,India","Ganga Nagar Extension, Ganganagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.587236,13.019649
+"Shikaripalya,Bangalore,Karnataka,India","Shikaripalya, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651185,12.836066
+"Huttanahalli,Bangalore,Karnataka,India","Huttanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651551,13.165466
+"Reliable Woods Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"4th T block Jayanagar,Bangalore,Karnataka,India","4th Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.681164,77.549232,12.929502
+"Nayandanahalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Hagadur,Bangalore,Karnataka,India","Hagadur Road, Immadihalli, 560066, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.96,77.7552176,12.9646574
+"Popular Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Soundarya Layout,Bangalore,Karnataka,India","Soundarya Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.501187,13.066107
+"Banashankari 6th Stage ,Subramanyapura,Bangalore,Karnataka,India","Banashankari 6th Stage, Thurahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.835397,77.508792,12.881532
+"Amarjyothi Colony,Bangalore,Karnataka,India","Amarjyothi Colony, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.597265,13.034447
+"Pattanagere,Bangalore,Karnataka,India","Pattanagere, RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.511213,12.91948
+"Dollars Layout,Bangalore,Karnataka,India","Dollar Layout, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.99869,77.602272,12.907424
+"Chikkabettahalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Bhuvaneswari Nagar,Bangalore,Karnataka,India","Bhuvaneswari Nagar, Hebbal Kempapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.604849,13.055285
+"Varanasi,Bangalore,Karnataka,India","Varanasi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.686066,13.030496
+"Gopal Reddy Layout,Bangalore,Karnataka,India","Gopal Nagar, HMT Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.713704,77.49838,13.032379
+"sankeswari,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"T c palya,Bangalore,Karnataka,India","Palya, Devanahalli, Bengaluru Rural, Karnataka, India",0.648148,77.79048,13.231166
+"Govindraja Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Virat Nagar,Bangalore,Karnataka,India","Virat Nagar, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.62059,12.904261
+"Chennammanakere Achukattu,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Maragondana Halli, kr puram, old madras road,Bangalore,Karnataka,India","Old Madras Road, Pai Layout, 560016, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.721111,77.6697547,12.9970117
+"Dhanalakshmi Layout,Bangalore,Karnataka,India","Dhanalakshmi Layout, Virupakshapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.571952,13.066811
+"Jp nagar 8th Phase .,Bangalore,Karnataka,India","2nd Block Jp Nagar 8th Phase, Royal Lake Front Phase2, 560083, Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",0.931429,77.5733065,12.8640503
+"Nobo Nagar,Bangalore,Karnataka,India","Nobo Nagar, Kalena Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.596236,12.867923
+"Kanakapura Road,Bangalore,Karnataka,India","HSR Services, Bengaluru, Karnataka 560078, India",1.0,77.5724,12.896796
+"Kadubeesanahalli,Bangalore,Karnataka,India","Kadubeesanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.699213,12.93319
+"J P Nagar 7th Phase Ramayya City,Bangalore,Karnataka,India","J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.721111,77.577423,12.887567
+"Green Domain Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Cleveland Town,Bangalore,Karnataka,India","Cleveland Town, Pulikeshi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.613165,12.994667
+"Syndicate Bank Colony,Bangalore,Karnataka,India","Syndicate Bank Colony, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.532725,12.980933
+"Off Sarjapur road, ,Bangalore,Karnataka,India","Sarjapura Road, 560035, Kaikondrahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.687841195793,12.90982715
+"M C Layout,Bangalore,Karnataka,India","M C Resort, Gundlupet, Karnataka 571126, India",0.655556,76.635611,11.696523
+"Nanjappa Layout,Bangalore,Karnataka,India","Nanjappa Layout, Adugodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.608003,12.940835
+"Dodda Banaswadi,Bangalore,Karnataka,India","Dodda Banaswadi, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.654241,13.015699
+"BEL Layout,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.994167,77.719206,12.959966
+"Sri Kanteshwara Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Bellari Road,Bangalore,Karnataka,India","Ballari Road, 562157, Sonnapanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.996806,77.6222535,13.155798
+"Jyothi Nagar,Bangalore,Karnataka,India","Jyothi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.665996,12.963263
+"Tata Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"RK Layout 2nd Stage,Bangalore,Karnataka,India","RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.561031,12.917685
+"Tirumanahalli,Bangalore,Karnataka,India","Tirumanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.638395,13.075617
+"Raghuvanahalli,Bangalore,Karnataka,India","Raghuvanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.542444,12.877821
+"Geddalahalli,Bangalore,Karnataka,India","Geddalahalii, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.575489,13.028728
+"Brindavan Nagar,Bangalore,Karnataka,India","Brindavan Nagar, Sadduguntepalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.610577,12.926048
+"Mariyannapalya,Bangalore,Karnataka,India","Mariyannapalya, Hebbal Kempapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.614254,13.051553
+"Palace Road,Bangalore,Karnataka,India","Palace Road, High Grounds, 560001, Sampangi Rama Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5874287,12.985994
+"Pulikeshi Nagar,Bangalore,Karnataka,India","Pulikeshi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.613875,12.997141
+"Domlur Layout,Bangalore,Karnataka,India","Domlur, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.638196,12.962467
+"Vijaya Bank Layout,Bangalore,Karnataka,India","Vijaya Bank Layout, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.605734,12.888649
+"Narayanappa Layout,Bangalore,Karnataka,India","Narayanappa Layout, Lingarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.627881,13.010653
+"1Hanuman Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Wilson Garden,Bangalore,Karnataka,India","Wilson Garden, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.596827,12.948934
+"Kumbhena Agrahara,Bangalore,Karnataka,India","Kumbena Agrahara, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.747388,13.001797
+"Challaghatta,Bangalore,Karnataka,India","Challagatta, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.651534,12.945101
+"Nyanappana Halli,Bangalore,Karnataka,India","Hall Road, 560005, Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.754,77.6161694692944,13.0041613
+"Indira Nagar 3rd Stage,Bangalore,Karnataka,India","New Krishna Bhavan, #33/39, Sirur Park, Bengaluru, Karnataka 560003, India",0.565035,77.571489,12.992898
+"KR Garden,Bangalore,Karnataka,India","KR Garden, Bengaluru, Karnataka 560017, India",1.0,77.658686,12.95319
+"Kanakadasa Layout,Bangalore,Karnataka,India","Kanakadasa Layout, Lingarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.630564,13.009431
+"Mallathahalli,Bangalore,Karnataka,India","Mallathahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.489113,12.963863
+"Jayamahal Extension,Bangalore,Karnataka,India","Jayamahal Extension, Jayamahal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.598535,12.999831
+"Laxminarayana Layout,Bangalore,Karnataka,India","Laxminarayana Layout, Munnekollal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.712585,12.944691
+"Sahyadri Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Mathikere SBM colony,Bangalore,Karnataka,India","Mathikere, Hmt Main Road, Bengaluru, Karnataka 560054, India",0.88037,77.558318,13.033745
+"white field,kadugodi,Bangalore,Karnataka,India","BEML Gate, Bengaluru, Karnataka 560075, India",0.754792,77.658766,12.97166
+"Bagalur,Bangalore,Karnataka,India","Bagalur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.668709,13.133187
+"Vinayak Nagar,Bangalore,Karnataka,India","Vinayak Nagar, Kattigenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.613862,13.120579
+"P Krishnappa Layout,Bangalore,Karnataka,India","Krishnappa Layout, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.572064,13.038883
+"Crimson Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Hanumantha Nagar,Bangalore,Karnataka,India","Hanumatha nagar, Sunkadakatte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.504925,12.985649
+"Bagalakunte,Bangalore,Karnataka,India","Bagalakunte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.506941,13.056293
+"Lavelle Road,Bangalore,Karnataka,India","Lavelle Road, 560001, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5970887,12.9688442
+"Goraguntepalya,Bangalore,Karnataka,India","Goraguntepalya, Yeshwanthpur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5374,13.026772
+"Rajankunte,Bangalore,Karnataka,India","Rajanukunte, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.563944,13.16919
+"6th Block Rajaji Nagar,Bangalore,Karnataka,India","6th Block, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.556705,12.978609
+"MLA Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Koramangala Industrial Layout,Bangalore,Karnataka,India","Industrial Layout, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.639431,12.888507
+"Kyalasanahalli,Bangalore,Karnataka,India","Kyalasanahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.66281,12.798581
+"Nagadevanahalli,Bangalore,Karnataka,India","Nagdevanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.491903,12.94142
+"Madiwala,Bangalore,Karnataka,India","Madiwala, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.617875,12.922288
+"Rajarajeshwari Nagara,Bangalore,Karnataka,India","Rajarajeshwari Nagar, Mysuru, Mysuru, Karnataka, India",0.764683,76.605423,12.286288
+"Celebrity Paradise Layout,Bangalore,Karnataka,India","Celebrity Paradise Layout, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651594,12.846761
+"St Thomas Town,Bangalore,Karnataka,India","St Thomas Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.63228,13.016377
+"Ckikkakammana Halli,Bangalore,Karnataka,India","Ckikkakammana halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.600893,12.85125
+"Banashankari 2nd Stage,Bangalore,Karnataka,India","Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.550589,12.94175
+"Munivenkatppa Layout,Bangalore,Karnataka,India","Munivenkatppa Layout, Bilekahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.605986,12.903615
+"Kamala Nagar,Bangalore,Karnataka,India","Kamla Nagar, Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.528068,12.996559
+"Kumarapalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Marenahalli,Bangalore,Karnataka,India","Marenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.679247,13.119913
+"Nagawara Junction,Bangalore,Karnataka,India","Nagavara, Bengaluru, Bengaluru Urban, Karnataka, India",0.7975,77.623602,13.037465
+"Maithri Layout,Bangalore,Karnataka,India","Maithri Layout, Kadugodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.755919,12.984862
+"Raja Rajeshwari Nagar 5th Stage,Bangalore,Karnataka,India","5th Stage, Subramanyapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.732222,77.555519,12.89805
+"Nanjappa Garden,Bangalore,Karnataka,India","Nanjappa Garden, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.655652,13.021926
+"Vayunandana Layout,Bangalore,Karnataka,India","Vayunandana Layout, Hebbal Kempapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.598626,13.045968
+"Geetanjali Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Kenchenhalli,Bangalore,Karnataka,India","Kenchenhalli, RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.509077,12.92909
+"EPIP AREA, WHITEFIELD,Bangalore,Karnataka,India","Epip, KIADB Export Promotion Industrial Area, 560066, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.843333,77.7239878397659,12.97760595
+"1st Stage Domlur,Bangalore,Karnataka,India","Domlur, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.638196,12.962467
+"RMV extension stage 2, rmv extension,Bangalore,Karnataka,India","Indian Institute Of Science, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",0.429012,77.5667375,13.0194445
+"Kalhalli,Bangalore,Karnataka,India","Kalhalli, Ulsoor, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.623225,12.986938
+"Hadosiddapura,Bangalore,Karnataka,India","Hadosiddapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.70277,12.895709
+"Vijaya Bank Colony,Bangalore,Karnataka,India","Vijaya Bank Colony, Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.660885,13.015083
+"Lakkasandra,Bangalore,Karnataka,India","Jakkasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.637603,12.92435
+"JP Nagar 8th Phase, ,Bangalore,Karnataka,India","2nd Block Jp Nagar 8th Phase, Royal Lake Front Phase2, 560083, Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",0.931429,77.5733065,12.8640503
+"Kachanayakanahalli,Bangalore,Karnataka,India","Kachanayakanahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.687294,12.798466
+"Nagaraja Garden,Bangalore,Karnataka,India","Lalbagh Botanical Garden, Lalbagh Road, Bengaluru, Karnataka 560004, India",0.81,77.586951,12.948948
+"1 Annasandrapalya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"6th block Koramangala,Bangalore,Karnataka,India","6th Block Koramangala, Koramangala 5th Block, 560095, Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6206523,12.9366384
+"JP nagar 9th Phase, ,Bangalore,Karnataka,India","Jp Nagar, 9th Phase, 560076, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5755685,12.8684675
+"4th Block Jayanagar,Bangalore,Karnataka,India","4th Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.549232,12.929502
+"Kuvempu Nagar,Bangalore,Karnataka,India","Kuvempu Nagar, Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.672328,13.008397
+"Karnataka Shabarimala,Bangalore,Karnataka,India","Coorg - The Restaurant, 477, Krishna Temple Rd, Bengaluru, Karnataka 560038, India",0.77,77.641735,12.978958
+"Canara Bank Colony,Bangalore,Karnataka,India","Canara Bank Colony, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.589578,12.931648
+"Hanumagiri,Bangalore,Karnataka,India","Hanumagiri, Chikkalasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.547287,12.918796
+"Seshadripuram,Bangalore,Karnataka,India","Sheshadripuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582224,12.993489
+"Akshayanagara West,Bangalore,Karnataka,India","Akshayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.802308,77.617139,12.871779
+"Prasanth Extension,Bangalore,Karnataka,India","Prashanth Nagar, T. Dasarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.76,77.519932,13.046033
+"Chikkathoguru,Bangalore,Karnataka,India","Chikkathoguru, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.655593,12.858505
+"Anand nagar,Bangalore,Karnataka,India","Anand Nagar, Hubli, Dharwad, Karnataka, India",0.772222,75.10945,15.339409
+"West of Chord Road,Bangalore,Karnataka,India","West of Chord Rd, Nagapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.545473,12.999653
+"Junnasandra,Bangalore,Karnataka,India","Junnasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.688605,12.902815
+"Handenahalli,Bangalore,Karnataka,India","Handenahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.767345,12.825982
+"manyata tech park,Bangalore,Karnataka,India","Manayata Tech Park, Nagavara, Bengaluru, Bengaluru Urban, Karnataka, India",0.999379,77.621027,13.04574
+"Sarvabhouma Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"SMV layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"CQAL LAYOUT C BLOCK,Bangalore,Karnataka,India","CQAL Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.584077,13.060813
+"Near Electronic City, ,Bangalore,Karnataka,India","Electronic City, Anekal, Bengaluru Urban, Karnataka, India",0.878519,77.680243,12.836273
+"Banashankari stage 2,Bangalore,Karnataka,India","Basics Life. Bengaluru, Rohini Complex Shop, Plot NO: 20. 1st Cross Rd, Bengaluru, Karnataka 560085, India",0.88037,77.550224,12.925721
+"Doddanakundi Industrial Area 2,Bangalore,Karnataka,India","Doddanakundi Industrial Area 2, Kartik Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.707756,12.979318
+"OLd Gurappanapalya,Bangalore,Karnataka,India","Old Gurappanapalya, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.602712,12.924562
+"Chikkadunnasandra,Bangalore,Karnataka,India","Chikkadunnasandra, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.77789,12.850462
+"Indranagar  100ft road defence colony,Bangalore,Karnataka,India","Truefitt & Hill, Shop No. 598/1 Situated In Ground, Bengaluru, Karnataka 560008, India",0.798889,77.644264,12.969022
+"Wajid layout thanisandra,Bangalore,Karnataka,India","Wajid Layout, Kothanur, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.634357,13.06069
+"Achins Road,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Uvce Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Gattigere,Bangalore,Karnataka,India","Gottigere, Bengaluru, Bengaluru Urban, Karnataka, India",0.996111,77.587724,12.856532
+"Cottonpet,Bangalore,Karnataka,India","Cottonpete, Bengaluru, Bengaluru Urban, Karnataka, India",0.996111,77.565886,12.965633
+"singapura paradise,Bangalore,Karnataka,India","Singapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.537271,13.0759
+"Kannur,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Sampangi Rama Nagar,Bangalore,Karnataka,India","Sampangi Rama Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.592261,12.966456
+"BEML Layout 5th stage,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.719206,12.959966
+"Pragathi Nagar,Bangalore,Karnataka,India","Pragathi Nagar, Basapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.653681,12.865999
+"Ramesh Nagar,Bangalore,Karnataka,India","Ramesh Nagar, Vimanapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.678515,12.95573
+"A Narayanapura,Bangalore,Karnataka,India","A Narayanapura, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.674939,12.993172
+"Amblipura,Bangalore,Karnataka,India","Amblipura, Eastwood Twp, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.667161,12.91733
+"Rajarajeshwari nagar,Bangalore,Karnataka,India","Rajarajeswari Nagar, Bengaluru, Karnataka 560098, India",1.0,77.517772,12.928443
+"Rajarajeshwarinagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Jinkethimmanahalli,Bangalore,Karnataka,India","Jinkethimmanahalli, Varanasi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.685613,13.025504
+"Vimanapura,Bangalore,Karnataka,India","Vimanapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.674891,12.962381
+"1st Stage Radha Krishna Layout,Bangalore,Karnataka,India","1st Stage, Shivakumara Swamy Nagara, Davanagere, Davanagere, Karnataka, India",0.638889,75.92513,14.440114
+"Bapuji Layout,Bangalore,Karnataka,India","Bapuji Layout, Attiguppe, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.528854,12.9641
+"Vasantapura main road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"CQAL Layout,Bangalore,Karnataka,India","CQAL Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.584077,13.060813
+"Venugopal Reddy Layout,Bangalore,Karnataka,India","Venugopal Reddy Layout, Arekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.603367,12.885075
+"Lake City,Bangalore,Karnataka,India","Lake City, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.617337,12.899738
+"Lakshmipura,Bangalore,Karnataka,India","Lakshmipura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.529098,13.090878
+"Old Town,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Okalipura,Bangalore,Karnataka,India","Okalipura, Srirampura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.566032,12.983282
+"Maruthi Extension,Bangalore,Karnataka,India","Maruthi Extension, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.561291,13.001036
+"Vidyapeeta,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Meenakshi Layout,Bangalore,Karnataka,India","Meenakshi Layout, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.675316,12.88372
+"S R Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"GD Layout,Bangalore,Karnataka,India","GD Layout, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.56266,13.071791
+"Kithaganur,Bangalore,Karnataka,India","Kithiganur, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.70536,13.045465
+"Shirdi Sai Nagar,Bangalore,Karnataka,India","Shirdi Sai Nagar Road, 56077, Ramkrishna Hegade Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6386790040642,13.0674009
+"JP Nagar 7th Phase, ,Bangalore,Karnataka,India","JP Nagar 7th Phase, Bengaluru, Karnataka 560078, India",1.0,77.580426,12.890239
+"J C Nagar,Bangalore,Karnataka,India","J C Nagar, Hubli, Dharwad, Karnataka, India",0.787037,75.144703,15.351808
+"Sadduguntepalya,Bangalore,Karnataka,India","Sadduguntepalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.609625,12.931546
+"Doddakammanahalli,Bangalore,Karnataka,India","Doddakammanahalli Road, Nobo Nagar, 560076, Hulimavu, Bengaluru, Bengaluru Urban, Karnataka, India",0.96,77.5955354,12.8729738
+"Bidrahalli,Bangalore,Karnataka,India","Bidarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.715606,13.060555
+"Medi Agrahara,Bangalore,Karnataka,India","Madi Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",0.997821,77.529346,13.105833
+"whitefiled,Bangalore,Karnataka,India","Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.749745,12.969637
+"Subbannaiah Palya,Bangalore,Karnataka,India","Subbannaiah Palya, Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.641467,13.008258
+"N R Layout,Bangalore,Karnataka,India","N R Colony, Kalaburagi, Kalaburagi, Karnataka, India",0.655556,76.818872,17.339285
+"Richards Town,Bangalore,Karnataka,India","Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.615805,13.004216
+"Manorayana Palya,Bangalore,Karnataka,India","Manorayana Palya, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.603918,13.030828
+"Madanayakahalli,Bangalore,Karnataka,India","Madanayakahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.460678,13.061138
+"Mahalakshmi Puram,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Jaladarsini Layout,Bangalore,Karnataka,India","Jaladarsini Layout, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.571655,13.032248
+"Attur Layout,Bangalore,Karnataka,India","Atturu, Yelahanka New Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.79,77.565685,13.107471
+"Brooke Bond First Cross,Bangalore,Karnataka,India","Karnataka, India",0.497355,75.7891387583579,14.9567026529756
+"Glass Factory Layout,Bangalore,Karnataka,India","Glass Factory Layout, Electronic City, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.693327,12.835878
+"Milk Colony,Bangalore,Karnataka,India","Milk Colony, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.557205,13.008529
+"Basnashankari,6th stage,,Bangalore,Karnataka,India","Banashankari 6th Stage, Thurahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.508792,12.881532
+"Near ullas theater,Bangalore,Karnataka,India","Urvashi Cinemas, Lalbagh Main Road, Bengaluru, Karnataka 560027, India",0.750741,77.585617,12.955631
+"Chikkakannalli,Bangalore,Karnataka,India","Chikkakannalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.698637,12.903136
+"Yeshwanthpur Industrial Suburb,Bangalore,Karnataka,India","Yeshwanthpur, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.552921,13.02383
+"Nandi Hills,Bangalore,Karnataka,India","Nandi Hills, 60 KM from Bangalore, Chikkaballapura, Karnataka 562103, India",0.772222,77.680911,13.368001
+"Thanisandra main road,Bangalore,Karnataka,India","Thanisandra Main Road, Sri Balaji Krupa Layout, 560077, R.K. Hegde Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.631672,13.0649791
+"Saptagiri Layout,Bangalore,Karnataka,India","Saptagiri Layout, Hosakerehalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.530451,12.918855
+"Doddabanahalli,Bangalore,Karnataka,India","Doddaganahalli, Hosakote, Bengaluru Rural, Karnataka, India",0.861071,77.949424,13.181704
+" Electronic City,Bangalore,Karnataka,India","Electronic City, Anekal, Bengaluru Urban, Karnataka, India",0.990889,77.680243,12.836273
+"Vijayabank bank layout,Bangalore,Karnataka,India","Citibank, 5, MG Road, Bengaluru, Karnataka 560001, India",0.750741,77.615528,12.973325
+"D Group Employees Layout,Bangalore,Karnataka,India","D-Group Layout, Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.724286,77.501859,12.971302
+"Hosahalli Extension,Bangalore,Karnataka,India","Hosahalli Extension, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.541593,12.966584
+"1Channasandra,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Whitefield, ,Bangalore,Karnataka,India","Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.749745,12.969637
+"Kempegowda Nagar,Bangalore,Karnataka,India","Kempegowda Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.562323,12.949368
+"Vaderahalli,Bangalore,Karnataka,India","Vaderahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.534704,13.098342
+"4th Phase JP Nagar,Bangalore,Karnataka,India","4th Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.71291,77.549232,12.929502
+"K R C kothanur,Bangalore,Karnataka,India","K R Market, Gundopanth St, Old Tharagupet, Bengaluru, Karnataka 560053, India",0.724286,77.577896,12.968636
+"2nd Block Jayanagar,Bangalore,Karnataka,India","2nd Block, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582604,12.940171
+"Singanayakanahalli,Bangalore,Karnataka,India","Singanayakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.569321,13.147862
+"Udaya Nagar,Bangalore,Karnataka,India","Uday Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.995606,77.553008,12.911025
+" Whitefield,Bangalore,Karnataka,India","Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.749745,12.969637
+"Vaishnavi Layout,Bangalore,Karnataka,India","Vaishnavi Layout, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.552584,13.077286
+"Housing Board Layout Vijay Nagar,Bangalore,Karnataka,India","Vijay Nagar, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.732222,77.758587,12.974075
+"Thomas Town,Bangalore,Karnataka,India","2nd Cross Road, HRBR Layout, 560043, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.6451446,13.0151589
+"Manganahalli,Bangalore,Karnataka,India","Manganahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.467956,12.95645
+"Indra Nagar,Bangalore,Karnataka,India","Indra Nagar, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.659612,12.836029
+"t.c palya,Bangalore,Karnataka,India","Tc Palaya Road, 560016, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.990208,77.6930892,13.0098552
+"Ilyas Nagar,Bangalore,Karnataka,India","Ilyas Nagar, Kumaraswamy Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.570644,12.907008
+"3rd Phase JP Nagar,Bangalore,Karnataka,India","JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.586607,12.909694
+"kanakapura main road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Reliaable Tranquil Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Mailasandra,Bangalore,Karnataka,India","Mailasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.493228,12.915939
+"Basvasamithi Layout Vidyaranyapura,Bangalore,Karnataka,India","Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.557731,13.076641
+"8th Block Jayanagar,Bangalore,Karnataka,India","Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.582423,12.929273
+"Atmananda Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Baba Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Badrappa Layout,Bangalore,Karnataka,India","Badrappa Layout, Koti Hosahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.578508,13.051025
+"Lal Bahadur Shastri Nagar,Bangalore,Karnataka,India","Lal Bahadur Shastri Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.546654,12.858503
+"Puttappa Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Ananthanagar Phase 1,Electronic City , phase 2,Bangalore,Karnataka,India","Croma, Eva Mall, Bengaluru, Karnataka 560025, India",0.558148,77.60704,12.971106
+"Bethel Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Kirloskar Layout,Bangalore,Karnataka,India","Kirloskar Layout, Soundarya Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.500931,13.066964
+"tc.palya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Dollar Scheme Colony,Bangalore,Karnataka,India","Dollar Scheme Colony, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.619593,12.918609
+"Omarbagh Layout,Bangalore,Karnataka,India","Omarbagh Layout, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.568212,12.911239
+"anjananager magdi road,Bangalore,Karnataka,India","Magadi Road, 560023, Binnipete, Bengaluru, Bengaluru Urban, Karnataka, India",0.811852,77.5550299,12.9752737
+"Kodipalya,Bangalore,Karnataka,India","Kodipalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.492211,12.896548
+"Aishwarya Crystal Layout,Bangalore,Karnataka,India","Aishwarya Crystal Layout, Begur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.647608,12.873511
+"DUO Layout,Bangalore,Karnataka,India","DUO Layout, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.613372,12.894204
+"Srinivas Colony,Bangalore,Karnataka,India","Srinivas Colony, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.591577,12.961558
+"Moodalapalya,Bangalore,Karnataka,India","Moodalapalya, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.523219,12.972387
+"Gokaula Extension,Bangalore,Karnataka,India","Gokula Extension, Mathikere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558302,13.042362
+"Subash Nagar,Bangalore,Karnataka,India","Subash Nagar, Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.479009,12.935351
+"RTO ullalu,Bangalore,Karnataka,India","RTO, Mangaluru, Karnataka 575001, India",0.880556,74.839396,12.861331
+"Carmelaram,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Hennur Bande,Bangalore,Karnataka,India","Hennur Bande, Hennur Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.646064,13.030694
+"ravindra nagar, T.dasarahalli peenya,Bangalore,Karnataka,India","Ravindra Nagar, Jalahalli West, Bengaluru, Bengaluru Urban, Karnataka, India",0.775873,77.519457,13.053665
+"1st Block BEL Layout,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.76,77.719206,12.959966
+"Prakruthi Township,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Bennigana Halli,Bangalore,Karnataka,India","Bennigana Halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.662603,12.994919
+"Seethappa Layout,Bangalore,Karnataka,India","Seethappa Layout, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.602478,13.032629
+"Langford Gardens,Bangalore,Karnataka,India","Langford Gardens, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.59857,12.963506
+"Bellandur, ,Bangalore,Karnataka,India","Bellandur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.677042,12.929211
+"Marasandra,Bangalore,Karnataka,India","Marasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.714854,13.099492
+"Kalkere Channasandra,Bangalore,Karnataka,India","Kalkere Channasandra Main Road, Kanaka Nagar, 560077, NRI Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.683972,13.0377209
+"Shakthi Nagar,Bangalore,Karnataka,India","Shakti Nagar, Mangaluru, Dakshina Kannada, Karnataka, India",0.975166,74.87514,12.899928
+"Ullal Uppanagar,Bangalore,Karnataka,India","Ullal Uppanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.474588,12.962763
+" south,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Rainbow Drive,Bangalore,Karnataka,India","Rainbow Drive, Halanayakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.687169,12.906106
+"3rd Block Koramangala,Bangalore,Karnataka,India","3rd Block, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.547536,12.933756
+"Jakkasandra Extension,Bangalore,Karnataka,India","Lakkasandra Extension, Wilson Garden, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.599693,12.945062
+"Ganesha Block,Bangalore,Karnataka,India","Ganesha Block, Nandini Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.541747,13.011345
+"Malur Hosur Road,Bangalore,Karnataka,India","Malur--Hosur Road, 563130, Choodagondahalli, Malur, Kolar, Karnataka, India",0.889259,77.9088756,12.9361995
+"Lakshmipura Vidyaanyapura,Bangalore,Karnataka,India","Lakshmipura Road, 560097, Abbigere, Bengaluru, Bengaluru Urban, Karnataka, India",0.866154,77.5303872,13.0811178
+"Hegganahalli,Bangalore,Karnataka,India","Hegganahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.510817,13.002832
+"Rajanna Layout,Bangalore,Karnataka,India","Ramanna Road, 560078, Panduranga Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.758571,77.5866296,12.898843
+"Nagarbhavi  BDA Complex,Bangalore,Karnataka,India","BDA Complex, Indiranagar Double Rd, Bengaluru, Karnataka 560038, India",0.824815,77.636959,12.981298
+"Gidada Konnenahalli,Bangalore,Karnataka,India","Gidada Konnenahalli, Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.493444,12.971328
+"Rahat Bagh,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Escorts Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"asha township, off hennur road,Bangalore,Karnataka,India","Hennur Road, Telecom Layout, 560043, HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.732222,77.6312977,13.0359535
+"1A Block Koramangala,Bangalore,Karnataka,India","Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.62223,12.934011
+"Near International Airport,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"NTI Layout,Bangalore,Karnataka,India","NTI Layout, Vidyaranyapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.556853,13.077958
+"Fraser town,Bangalore,Karnataka,India","Barista, 94, Mosque Road, Frazer Town, Bengaluru, Karnataka 560005, India",0.995606,77.614162,12.996865
+"Dasappa Layout,Bangalore,Karnataka,India","Dasappa Layout, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.671043,13.01344
+"Sonam Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"CR Layout,Bangalore,Karnataka,India","CR Layout, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.578829,12.916403
+"BTM 4th Stage,Bangalore,Karnataka,India","Btm, SR Krishnappa Garden, 560029, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.676667,77.6007189,12.9312404
+"Arekempanahalli,Bangalore,Karnataka,India","Arekempanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.593311,12.946347
+"Chamundi Nagar,Bangalore,Karnataka,India","Chamundi Nagar, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.595491,13.030854
+"MRCR Layout,Bangalore,Karnataka,India","MRCR Layout, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.53553,12.971197
+"Shettihalli,Bangalore,Karnataka,India","Shettihalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.730593,12.752835
+"Gangondanahalli,Bangalore,Karnataka,India","Gangondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.467528,13.02219
+"Ullal Road,Bangalore,Karnataka,India","Ullalu Road, Byregowda Layout, 560056, Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.994167,77.4819203676397,12.96832115
+"Hullahalli,Bangalore,Karnataka,India","Hullahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.617054,12.826731
+"Jagajyothi layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Lakkasandra Extension,Bangalore,Karnataka,India","Lakkasandra Extension, Wilson Garden, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.599693,12.945062
+"Krishna Reddy Layout,Bangalore,Karnataka,India","Krishna Reddy Layout, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.668381,13.013201
+"Kuvempu Layout,Bangalore,Karnataka,India","Kuvempu Nagar, Dooravani Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.672328,13.008397
+"Chickpet,Bangalore,Karnataka,India","Chickpet, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.57753,12.970139
+"T G extension,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"2nd Block Koramangala,Bangalore,Karnataka,India","2nd Block, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.582604,12.940171
+"Devi Nagar,Bangalore,Karnataka,India","Devi Nagar, Ballari, Ballari, Karnataka, India",0.772222,76.915647,15.151521
+"GKW Layout,Bangalore,Karnataka,India","GKW Layout, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.528445,12.968105
+"Gandhi Nagar,Bangalore,Karnataka,India","Gandhi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5784,12.977153
+"Jnana Ganga Nagar,Bangalore,Karnataka,India","Jnana Ganga Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.496518,12.951804
+"rr nagar,Bangalore,Karnataka,India","RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.517969,12.926375
+"Harohalli,Bangalore,Karnataka,India","Harohalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.581367,13.133844
+"Stage-4 Bommanahalli,Bangalore,Karnataka,India","Stage 4, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.61624,12.890737
+"Venkateshpuram,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Judicial Layout, Kanakapura Road, ,Bangalore,Karnataka,India","HSR Services, Bengaluru, Karnataka 560078, India",0.771905,77.5724,12.896796
+"Mullur,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"J.P.nagar 6th Phase.Sarakki Nagar,Bangalore,Karnataka,India","J.C.Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.695941,77.592897,13.008623
+"Doddabele,Bangalore,Karnataka,India","Doddabele, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.475559,12.88986
+"Sadahalli,Bangalore,Karnataka,India","Sadahalli, Devanahalli, Bengaluru Rural, Karnataka, India",0.875,77.647022,13.211109
+"Sathya Layout,Bangalore,Karnataka,India","Sathya's, Kormangala 3 block, Bengaluru, Karnataka 560034, India",0.793333,77.629041,12.929162
+"5 Bedroom Farm House in Lakshmipura,Bangalore,Karnataka,India","Indian Institute Of Science, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",0.496914,77.5667375,13.0194445
+"Shanti Nagar,Bangalore,Karnataka,India","Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.59791,12.957555
+"2nd Stage Arekere Mico Layout,Bangalore,Karnataka,India","New Punjabi Food Corner, Wipro Gate 12, Bengaluru, Karnataka 560100, India",0.472222,77.658004,12.839092
+"Jayamahal,Bangalore,Karnataka,India","Jayamahal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.597579,12.998812
+"Veer Sandra,Bangalore,Karnataka,India","Veer Sandra, Electronic City, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.678675,12.8319
+"Chennappa Layout,Bangalore,Karnataka,India","Chennappa Layout, Chinnapanna Halli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.708162,12.963103
+"RMV Extension Stage 2,Bangalore,Karnataka,India","RMV Extension Stage 2, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.574948,13.040579
+"Sadanand Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Whietfield, ,Bangalore,Karnataka,India","Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.749745,12.969637
+"BTM Layout 1stage 9th Main,Bangalore,Karnataka,India","9th Main Road, 560076, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.617407,77.6075946,12.9147355
+"Lavakusha Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Vittal Mallya Road,Bangalore,Karnataka,India","Starbucks, 38/1 Vittal Mallya Road, Bangalore, Bengaluru, Karnataka 560001, India",1.0,77.59819,12.971321
+"Dena Bank Colony,Bangalore,Karnataka,India","New Bank Colony, Konanakunte, Bengaluru, Bengaluru Urban, Karnataka, India",0.772963,77.567711,12.881313
+"Kadabagere,Bangalore,Karnataka,India","Kadabagere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.433375,12.99655
+"1st Block HBR Layout,Bangalore,Karnataka,India","HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.63236,13.03587
+"High grounds,Bangalore,Karnataka,India","High Grounds, Sampangi Rama Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.58631,12.985994
+"Kothnoor Dinne,Bangalore,Karnataka,India","Kothnoor Dinne, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582939,12.877187
+"Guddadahalli,Bangalore,Karnataka,India","Guddadahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.546444,12.957893
+"Vasanthpura,Bangalore,Karnataka,India","Vasanthapura, Subramanyapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.546788,12.888874
+"Kasthuri Nagar East Of NGEF,Bangalore,Karnataka,India","Kasturi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.724286,77.660323,13.004498
+"Chikka Gowdanapalya.,Bangalore,Karnataka,India","Gowdanapalya, Uttarahalli Hobli, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.556583,12.909109
+"TR Mill Road, Chamarajpet,Bangalore,Karnataka,India","Chamrajpet, Bengaluru, Bengaluru Urban, Karnataka, India",0.700476,77.562916,12.958418
+"Nirman Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Chokkahalli,Bangalore,Karnataka,India","Chokkahalli, Hosakote, Bengaluru Rural, Karnataka, India",0.87,77.834807,13.111495
+"Telecom Layout,Bangalore,Karnataka,India","Telecom Layout, HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.630285,13.035036
+"Vikram Nagar,Bangalore,Karnataka,India","Vikram Nagar, Kumaraswamy Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.562538,12.897439
+"Virupakshapura,Bangalore,Karnataka,India","Virupakshapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.571857,13.068971
+"Muthyala Nagar,Bangalore,Karnataka,India","Muthyala Nagar, Mathikere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.550051,13.041361
+"Nrupathunga Nagar,Bangalore,Karnataka,India","Nrupatunga Nagar, Chandra Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.510028,12.95632
+"Coconut Grove Layout,Bangalore,Karnataka,India","Coconut Groove, 86 Spencer Building, Bengaluru, Karnataka 560001, India",0.814843,77.604492,12.9751505
+"Amrita Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"RR Layout,Bangalore,Karnataka,India","RR Layout, Padmanabhanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.557371,12.912281
+"Billapura,Bangalore,Karnataka,India","Billapura, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.785639,12.837023
+"KHB Colony Extension,Bangalore,Karnataka,India","KHB Colony Extension, Kaval Bairasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.608306,13.028232
+"Anjana Nagar,Bangalore,Karnataka,India","Anjana Nagar, Sunkadakatte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.490168,12.980213
+"Subramanya Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Janatha Colony,Bangalore,Karnataka,India","Janatha Colony, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582416,13.086811
+"Veersandra,Bangalore,Karnataka,India","Veerasandra, Nagamangala, Mandya, Karnataka, India",0.8575,76.777108,12.887802
+"Harsha Layout,Bangalore,Karnataka,India","Harsha Layout, Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.486306,12.915431
+"Tigalarpalya,Bangalore,Karnataka,India","Tigalarpalya, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.725034,12.963037
+"2nd Block Bel Layout,Bangalore,Karnataka,India","2nd Block, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.582604,12.940171
+"sarjapura main road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Anekal - Hosur Road,Bangalore,Karnataka,India","Regus - Bangalore, Hosur Road, 1st & 2nd Floor, IBIS Hotel, Bommanahalli, Bengaluru, Karnataka 560068, India",0.824815,77.6321,12.9007
+"Ramamurthy Nagar Extension,Bangalore,Karnataka,India","Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.677782,13.012022
+"2nd phase jp nagar, jp nagar,Bangalore,Karnataka,India","2nd Phase, JP Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.818642,77.588039,12.911667
+"BEML Layout 5th Stage,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.719206,12.959966
+"Manonarayanapalya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"M V Extenstion,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Kamdhenu Nagar,Bangalore,Karnataka,India","Kamdhenu Nagar, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.686457,12.996027
+"Ganganahalli,Bangalore,Karnataka,India","Ganganahalli, Bengaluru, Karnataka 560024, India",1.0,77.586101,13.030685
+"Narayanappa Garden,Bangalore,Karnataka,India","Narayanappa Garden, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.750623,12.965749
+"Rest House Road,Bangalore,Karnataka,India","Rest House Road, 560001, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6058097,12.9727764
+"Ex-Servicemen Colony Dinnur Main Road R.T.Nagar,Bangalore,Karnataka,India","Ex Servicemen Colony, RT Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.721111,77.596718,13.023553
+"Vijay Nagar,Bangalore,Karnataka,India","Vijay Nagar, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.758587,12.974075
+"CMH Road,Bangalore,Karnataka,India","Chinmaya Mission Hospital Road, Hoysala Nagar, 560038, Indiranagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6379023,12.9781282
+"Ankappa Layout,Bangalore,Karnataka,India","Anjappa Layout, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.99869,77.683476,12.990834
+"Neelasandra,Bangalore,Karnataka,India","Neelasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.614092,12.952179
+"Yediyur,Bangalore,Karnataka,India","Yediyur, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.572406,12.9304
+"Upadhyaya Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"bsk 6th stage 2ad block near sri conversation hall,Bangalore,Karnataka,India","6th Block, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.572963,77.556705,12.978609
+"Annapoorneshwari Layout, JP nagar 7th phase,Bangalore,Karnataka,India","JP Nagar 7th Phase, Bengaluru, Karnataka 560078, India",0.800123,77.580426,12.890239
+"Mudalpalaya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"elachenahalli,Bangalore,Karnataka,India","Yelachenahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.570575,12.900383
+"B K Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Vivek Nagar,Bangalore,Karnataka,India","Viveka Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.995606,77.623137,12.952925
+" Basavangudi,Bangalore,Karnataka,India","Basavanagudi, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.575502,12.941726
+"Banashankari 6th stage , 2nd block,Bangalore,Karnataka,India","Banashankari 6th Stage, Thurahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.787778,77.508792,12.881532
+"KG Halli,Bangalore,Karnataka,India","KG Colony, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.663101,12.972541
+"Cubbon Road,Bangalore,Karnataka,India","Cubbon Road, 560001, Shivaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6049019,12.9783896
+"Veerabhadra Nagar,Bangalore,Karnataka,India","Veerabhadra Nagar, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.537076,12.936412
+"Vidhyanagar Cross,Bangalore,Karnataka,India","Vidyanagar, Anekal, Bengaluru Urban, Karnataka, India",0.85402,77.686131,12.823836
+"6th Block Jayanagar,Bangalore,Karnataka,India","6th Block, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.556705,12.978609
+"Punappa Layout,Bangalore,Karnataka,India","Punappa Layout, HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.636021,13.038103
+"Pampa Extension,Bangalore,Karnataka,India","Pampa Extension, Hebbal Kempapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.599428,13.051308
+" Sector 1 HSR Layout,Bangalore,Karnataka,India","Sector 1, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.652492,12.91763
+"Basaveswarnagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Jaymahal Road,Bangalore,Karnataka,India","Jayamahal Road, Jayamahal Extension, 560006, Jayamahal, Bengaluru, Bengaluru Urban, Karnataka, India",0.997821,77.5932177,13.0055374
+"Nagarbhavi Garden Villas Layout,Bangalore,Karnataka,India","Nagarabhavi Road, Stage 2, 560040, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.706667,77.5335935,12.9757428
+"Agrahara Dasarahalli,Bangalore,Karnataka,India","Agrahara Dasarahalli, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.544795,12.97993
+"T R Mill Road,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.607143,77.5913,12.97912
+"Indira Nagar Stage 2,Bangalore,Karnataka,India","Stage 2, BTM, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.599264,12.914268
+"Hommadevanahalli,Bangalore,Karnataka,India","Hommadevanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.601395,12.841569
+"BTM Layout 2nd Stage 1st Phase,Bangalore,Karnataka,India","Btm, SR Krishnappa Garden, 560029, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.674198,77.6007189,12.9312404
+"T C Palya main Road,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.583333,77.5913,12.97912
+"1 Immadihalli,Bangalore,Karnataka,India","Immadihalli, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.762046,12.966399
+"Navodaya Nagar,Bangalore,Karnataka,India","Navodaya Nagar, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.584552,12.881248
+"Guni Agrahara,Bangalore,Karnataka,India","Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.617445,13.083161
+"Shankarapuram,Bangalore,Karnataka,India","Shankarapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.571006,12.952378
+"Shetty Halli,Bangalore,Karnataka,India","Shetty Halli, Tumakuru, Tumakuru, Karnataka, India",0.772222,77.124883,13.307893
+"AGB Layout,Bangalore,Karnataka,India","AGS Layout, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.994167,77.540098,12.916484
+"Bilal Nagar,Bangalore,Karnataka,India","Bilal Nagar, Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.61618,13.008342
+"Krishna Nagar,Bangalore,Karnataka,India","Sri Krishna Sagar, Sadhalli Jn, Bengaluru, Karnataka 562157, India",0.936923,77.645779,13.190949
+"Kanakapura Main Road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Suryanagar,Bangalore,Karnataka,India","Suryanagar, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.703935,12.797271
+"Duvasapalya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"BCMC Layout,Bangalore,Karnataka,India","BMC Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.995606,77.550377,12.880523
+"Kengeri Satellite Town Stage II,Bangalore,Karnataka,India","Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.787778,77.486964,12.923649
+"Church Street,Bangalore,Karnataka,India","1st A Cross Road, Dodsworth Layout, 560066, Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.7500551,12.9713682
+"Uday Nagar,Bangalore,Karnataka,India","Uday Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.553008,12.911025
+"Chaitanya Ananya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Nagashetty Halli,Bangalore,Karnataka,India","Nagashetty Halli, RMV Extension Stage 2, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.573683,13.046814
+"Byrasandra Extension,Bangalore,Karnataka,India","Byrasandra, C V Raman Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.667778,12.980546
+"Sri Sai Layout,Bangalore,Karnataka,India","Sri Sai Layout, Kadugodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.765089,12.988115
+"Devara Jeevanahalli,Bangalore,Karnataka,India","Devara Jeevanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.606865,13.009998
+"SK Garden,Bangalore,Karnataka,India","Lalbagh Botanical Garden, Lalbagh Road, Bengaluru, Karnataka 560004, India",0.81,77.586951,12.948948
+"PNS Layout,Bangalore,Karnataka,India","PNS Layout, Kalyan Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.641173,13.016218
+"Electronic city Phase 1, ,Bangalore,Karnataka,India","Electronic City Phase 1, Electronics City Phase 1, 560100, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.665361,12.84496565
+" Banaswadi,Bangalore,Karnataka,India","Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651854,13.014162
+"Naidu Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Sugama Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Behind Don Bosco Church,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.607143,77.5913,12.97912
+"Anugrah Layout,Bangalore,Karnataka,India","Anugraha Layout, Bilekahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.99869,77.610064,12.900565
+"Bandepalya,Bangalore,Karnataka,India","Bandepalya, Garvebhavi Palya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.636938,12.897541
+"poornaprajna layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Annapurneshwari Nagar,Bangalore,Karnataka,India","Annapurneshwari Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5011,12.970106
+"Somanna Garden,Bangalore,Karnataka,India","Lalbagh Botanical Garden, Lalbagh Road, Bengaluru, Karnataka 560004, India",0.81,77.586951,12.948948
+"RPC layout,Bangalore,Karnataka,India","RPC Layout, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.535108,12.959949
+"HSR Layout 7th sector, ,Bangalore,Karnataka,India","Hsr Layout 7th Sector, Sector 1, 560102, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6521359,12.9132205
+"Bettadasanapura,Bangalore,Karnataka,India","Bettadasanapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.632251,12.84204
+"Gulimangala,Bangalore,Karnataka,India","Gulimangala, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.690935,12.842914
+"Addischetan Layout,Bangalore,Karnataka,India","Addischetan Layout, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.616671,12.883735
+"Konena Agrahara,Bangalore,Karnataka,India","Konena Agrahara, Murugeshpalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.662337,12.958606
+"Raghavendra Layout,Bangalore,Karnataka,India","Raghavendra Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60616,12.878852
+"Varsova Layout,Bangalore,Karnataka,India","Varsova Layout, Kaggadasapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.670595,12.985702
+"Bhattarahalli,Bangalore,Karnataka,India","Bhattarahalli, Doddabasavanapura, Bengaluru, Karnataka 560049, India",1.0,77.714048,13.014844
+"Bande Nallasandra,Bangalore,Karnataka,India","Nallasandra, Anekal, Bengaluru Urban, Karnataka, India",0.818667,77.604399,12.799153
+"HAL Layout,Bangalore,Karnataka,India","HAL, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.669745,12.955196
+"Vidya Nagar,Bangalore,Karnataka,India","Vidya Nagar, Peenya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.50718,13.038589
+"Shingapura,Bangalore,Karnataka,India","Singapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.537271,13.0759
+"SHANTHINAGAR,Bangalore,Karnataka,India","Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.59791,12.957555
+"Jay an agar 4 T Block,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.564815,77.5913,12.97912
+"Satyasaibaba Layout,Bangalore,Karnataka,India","Satyasaibaba Layout, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.717372,13.00799
+"Queens Road,Bangalore,Karnataka,India","Queen's Road, 560001, Shivaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5973695246122,12.9835165
+"Koppa,Bangalore,Karnataka,India","Koppa, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.627418,12.805379
+"RR Nagar,Bangalore,Karnataka,India","RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.517969,12.926375
+"Jagadish Nagar,Bangalore,Karnataka,India","Jagadish Nagar, Kaggadasapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.668163,12.971198
+"3rd Phase Iti Layout,Bangalore,Karnataka,India","ITI Layout, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.645589,12.90346
+"Ananthapura, T C palaya Main Road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.701358,77.6558398,12.9704842
+"Phase 1 Kammasandra,Bangalore,Karnataka,India","Phase -1, Peenya, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.526893,13.038535
+"Deepanjali Nagar,Bangalore,Karnataka,India","Deepanjali Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.535647,12.952694
+"SARJAPUR BAGALUR ROAD,Bangalore,Karnataka,India","Bagalur Road, Niranthara Layout, 562149, Sathnur Village, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6393446,13.1235851
+"B Y Raveshwara Nagar,Bangalore,Karnataka,India","B Y Raveshwara Nagar, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.522778,12.963758
+"KEB Colony,Bangalore,Karnataka,India","KEB Colony, Hoodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.709362,12.989115
+"HOSUR RMAIN ROAD,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.811852,77.6558398,12.9704842
+"Konappana Agrahara,Bangalore,Karnataka,India","Agrahara, Bengaluru, Bengaluru Urban, Karnataka, India",0.81,77.617445,13.083161
+"Rajasree Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Vinayaka Layout,Bangalore,Karnataka,India","Vinayaka Layout, Nagarbhavi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.515036,12.96285
+"Thirumalashettyhally,Bangalore,Karnataka,India","Thirumalashettyhally, Hosakote, Bengaluru Rural, Karnataka, India",0.875,77.784369,12.977776
+"Bharathnagar,Bangalore,Karnataka,India","Bharat Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.480925,12.978843
+"5th Block Jayanagar,Bangalore,Karnataka,India","Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.582423,12.929273
+"Jayanagar, ,Bangalore,Karnataka,India","Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.582423,12.929273
+"Asthagrama Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Rajarajesheari nagar,Bangalore,Karnataka,India","Rajarajeshwari Nagar, Mysuru, Mysuru, Karnataka, India",0.764306,76.605423,12.286288
+"Millers Road,Bangalore,Karnataka,India","Millers Road, Nandi Durga Road Extension, 560046, Jayamahal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5989012795512,12.99611745
+"2nd Block Hbr Layout,Bangalore,Karnataka,India","HBR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.63236,13.03587
+"Madavara,Bangalore,Karnataka,India","Madavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.472968,13.053199
+"Dwaraka Nagar,Bangalore,Karnataka,India","Dwaraka Nagar, RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.524105,12.908892
+"Garebhavipalya,Bangalore,Karnataka,India","Garebhavipalya, Hongasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.635296,12.892624
+"Neelamangala,Bangalore,Karnataka,India","Nelamangala, Karnataka, India",0.859583,77.396359,13.095302
+"Banashankari 6th Stage,Bangalore,Karnataka,India","Banashankari 6th Stage, Thurahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.508792,12.881532
+"Brindavan Layout,Bangalore,Karnataka,India","Brindavan Layout, Battarahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.698539,13.019451
+"Chambenahalli,Bangalore,Karnataka,India","Chambenahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.76158,12.88051
+"cooketown,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Kathriguppe IV Phase,Bangalore,Karnataka,India","II Phase, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.808611,77.543451,12.941251
+"Ramchandrapuram,Bangalore,Karnataka,India","Ramchandrapuram, Srirampura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.562364,12.986335
+"1Hoysalanagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"PC Palaya,Bangalore,Karnataka,India","Tc Palaya Road, 560016, Krishnarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.992407,77.6930892,13.0098552
+"Soppahalli,Bangalore,Karnataka,India","Soppahalli, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.679275,12.753575
+"Aavalahalli,Bangalore,Karnataka,India","Aavalahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.736565,13.035278
+"Jayanti Nagar,Bangalore,Karnataka,India","Jayanti Nagar, Horamavu, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.665937,13.027639
+"Virudhu Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"kamanahalli main road,Bangalore,Karnataka,India","Kammanahalli Main Road, Kammanahalli, 560043, Kacharakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6371117,13.0217349
+"7th Block Koramangala,Bangalore,Karnataka,India","Koramangala, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.62223,12.934011
+"Prakash Nagar,Bangalore,Karnataka,India","Prakash Nagar, Rajaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.556955,12.993569
+"Bharat Nagar,Bangalore,Karnataka,India","Bharat Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.480925,12.978843
+"Ramanashree Enclave,Bangalore,Karnataka,India","Ramanashree Enclave, Bilekahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.607295,12.90045
+"Yelahanka,MVIT college,Bangalore,Karnataka,India","Indian Institute Of Science, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",0.750741,77.5667375,13.0194445
+"Chikku Lakshmaiah Layout,Bangalore,Karnataka,India","Lakshmaiah Layout, Abbigere, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.522582,13.073851
+"Gnana Bharathi,Bangalore,Karnataka,India","Gnana Bharathi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.511233,12.943349
+"Pillahalli,Bangalore,Karnataka,India","Pillahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.4288,13.102529
+"Ashok Nagar,Bangalore,Karnataka,India","Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.609232,12.969436
+"Gollarahatti,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Venkateswara Nagar,Bangalore,Karnataka,India","Venkateswara Nagar, Sunkadakatte, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.503153,12.992223
+"Chikkagubbi,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Banashankari 2 nd Stage,Bangalore,Karnataka,India","Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.708413,77.550589,12.94175
+"Kammagondahalli,Bangalore,Karnataka,India","Kammagondahalli, Jalahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.537022,13.060944
+"Nanjappa Layout Vidyaranyapura,Bangalore,Karnataka,India","Nanjappa Layout, Jalahalli East, Bengaluru, Bengaluru Urban, Karnataka, India",0.917407,77.558204,13.068365
+"Rammana Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Rajapura,Bangalore,Karnataka,India","Rajapura, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.673944,12.776471
+"Raja Rajeshwari Nagara,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Govindapura,Bangalore,Karnataka,India","Govindapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.462238,13.120935
+"Thirupalya,Bangalore,Karnataka,India","Thirupalya, Anekal, Bengaluru Urban, Karnataka, India",0.99,77.667784,12.821019
+"Off Bannergatta road,Bangalore,Karnataka,India","Bannerghatta Road, Dollars Colony, 560076, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.816713,77.6011747,12.9035841
+"Hoskote near,Bangalore,Karnataka,India","Gear School Road, 560103, Bhoganhalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.767778,77.6952641,12.9237852
+"Haralur Road, ,Bangalore,Karnataka,India","Haralur Road, 560102, Kasavanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6709826507025,12.90666275
+"Adugodi,Bangalore,Karnataka,India","Adugodi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.610415,12.942847
+"RK Colony,Bangalore,Karnataka,India","AK Colony, Ganganagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.992407,77.591152,13.023386
+"2 Bedroom Furnished Farm House in Kolar Road,Bangalore,Karnataka,India","Kolar, Karnataka, India",0.451515,78.133961,13.137
+"kg halli jalhalli west,Bangalore,Karnataka,India","Jalahalli West, Bengaluru, Bengaluru Urban, Karnataka, India",0.762747,77.512154,13.060794
+"Vasatha Vallbha Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"BAGUR ROAD,Bangalore,Karnataka,India","Begur Road, Bommanahalli, 560068, Bengaluru, Bengaluru Urban, Karnataka, India",0.994167,77.6242766,12.9054849
+"Balepet,Bangalore,Karnataka,India","Balepet, Bengaluru, Karnataka 560053, India",1.0,77.574253,12.970697
+"Annasandrapalya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"RMC YARD,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Panathur Road, ,Bangalore,Karnataka,India","Panathur Main Road, 560087, Panathur, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.696313,12.9391292
+"Shanthi Pura,Bangalore,Karnataka,India","Shanthi Road, 560027, Shanti Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.5949208,12.9608646
+"Viviani Road,Bangalore,Karnataka,India","Viviani Road, 560005, Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6160543584365,13.00324845
+"Sampangirama Nagar,Bangalore,Karnataka,India","Sampangiram Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5738,12.993516
+"Doctor Layout Rayasandra,Bangalore,Karnataka,India","Doctors Layout, Bommanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.907436,77.613061,12.89664
+"Anwar Layout,Bangalore,Karnataka,India","Anwar Layout, Kadugondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.614711,13.014723
+"Pillanna Gardens,Bangalore,Karnataka,India","Pillanna Garden, Kadugondanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.617953,13.009902
+"AECS LAYOUT A-BLOCK Singasandra,Bangalore,Karnataka,India","AECS Layout A-Block, Singasandra, Anekal, Bengaluru Urban, Karnataka, India",1.0,77.655338,12.886809
+"Banashankari Stage I,Bangalore,Karnataka,India","Banashankari Stage I, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.551871,12.941222
+"4th Block HBR Layout,Bangalore,Karnataka,India","4th Tea Block, Bengaluru, Karnataka 560011, India",0.837381,77.585966,12.926251
+"Michael Palaya,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"RBI Layout,Bangalore,Karnataka,India","RBI Colony, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.77,77.593434,12.930726
+"Akash Nagar,Bangalore,Karnataka,India","New Akash Nagar, Indiranagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.946667,77.637686,12.973773
+"Shauhardha Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Bhoopsandra,Bangalore,Karnataka,India","Bhoopasandra, RMV Extension Stage 2, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.57889,13.045867
+"Electronic city phase 1, ,Bangalore,Karnataka,India","Electronic City Phase 1, Electronics City Phase 1, 560100, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.665361,12.84496565
+"Anathanagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"vinayakanagar,Bangalore,Karnataka,India","Vinayakanagar, Hebbal, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.590146,13.035333
+"Jaraganahalli Jp Nagar Post,Bangalore,Karnataka,India","Jarganahalli, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.738124,77.576382,12.896245
+"adigondanhalli,Bangalore,Karnataka,India","Adigondanahalli, Anekal, Bengaluru Urban, Karnataka, India",0.981071,77.751899,12.814148
+"Off Bannergatta Road,Bangalore,Karnataka,India","Bannerghatta Road, Dollars Colony, 560076, J P Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.816713,77.6011747,12.9035841
+"Kanakapura  Rod,Bangalore,Karnataka,India","HSR Services, Bengaluru, Karnataka 560078, India",0.99869,77.5724,12.896796
+"Richmond Road,Bangalore,Karnataka,India","Richmond Road, 560025, Ashok Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6072116,12.9665163
+"Postal Colony,Bangalore,Karnataka,India","Postal Colony, Sanjaynagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.577122,13.035192
+"MEI layout, Bagalgunte,Bangalore,Karnataka,India","MEI Layout, Bagalakunte, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.500626,13.062255
+"Jeevanhalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Gubbi Cross, Hennur Main Road,Bangalore,Karnataka,India","Hennur Main Road, Narayanappa Layout, 560084, Lingarajapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.787778,77.6287697388857,13.0118654
+"Sabari Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Ashraya Layout,Bangalore,Karnataka,India","Ashraya Restaurant, K.R. Puram, Bengaluru, Karnataka 560049, India",0.77,77.708781,13.019888
+"Arishinakunte,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Infantry Road,Bangalore,Karnataka,India","Infantry Road, 560001, Shivaji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.5982064,12.9821279
+"Whitefield ECC Road,Bangalore,Karnataka,India","Whitefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.749745,12.969637
+"Maruthi nagar kogilu,Bangalore,Karnataka,India","Maruthi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.540362,13.00858
+"Ayappa Nagar,Bangalore,Karnataka,India","Ayyappa Nagar, Konanakunte, Bengaluru, Bengaluru Urban, Karnataka, India",0.996806,77.563376,12.873848
+"Billamaranahalli,Bangalore,Karnataka,India","Billamaranahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.639666,13.150438
+"Prasanti Nagar,Bangalore,Karnataka,India","Prasanthi Nagar, Kapra, Secunderabad, Medchal-Malkajgiri, Telangana, India",0.533135,78.563365,17.485065
+"Banasawadi, ,Bangalore,Karnataka,India","Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",0.9975,77.651854,13.014162
+"Sunkan palya,Bangalore,Karnataka,India","Palya, Devanahalli, Bengaluru Rural, Karnataka, India",0.7,77.79048,13.231166
+"Gayathri Nagar,Bangalore,Karnataka,India","Gayathri Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.558898,12.978788
+"Old Mangammanapalya Road,Bangalore,Karnataka,India","Mangammanapalaya Main Road, ITI Layout, 560068, HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.767778,77.6436349,12.9025479
+"1Kasavanhalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Kanakapura Road, ,Bangalore,Karnataka,India","HSR Services, Bengaluru, Karnataka 560078, India",1.0,77.5724,12.896796
+"Hal old airport road,Bangalore,Karnataka,India","Hal Underpass, Sudhama Nagar, 560017, Jeevanbheemanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6661308,12.9584404
+"arudi,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Anantapuram,Bangalore,Karnataka,India","Anandapuram, Bengaluru, Bengaluru Urban, Karnataka, India",0.998636,77.567681,12.962472
+"Javarandoddi,Bangalore,Karnataka,India","Javarandoddi, RR Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.523329,12.930995
+"Vijaypura,Bangalore,Karnataka,India","Vijayapura, Devanahalli, Bengaluru Rural, Karnataka, India",0.856111,77.802893,13.296406
+"Bapuji Nagar,Bangalore,Karnataka,India","Bapuji Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.540249,12.95567
+"Amam Enclave Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"Allalasandra,Bangalore,Karnataka,India","Allalasandra, Yelahanka, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.592158,13.083232
+"Ramanagara Channapatna,Bangalore,Karnataka,India","Ramanagara, Ramanagaram, Ramanagara, Karnataka 562159, India",0.796,77.277409,12.721280499999999
+"Maheswari Nagar,Bangalore,Karnataka,India","Maheswari Nagar, Mahadevapura, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.69075,12.99178
+"Hsr layout sector3,Bangalore,Karnataka,India","HSR Layout, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.638862,12.911623
+"Thyagraj Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Banagirinagar,Bangalore,Karnataka,India","Banagirinagara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.560041,12.926232
+"Medaralli,Bangalore,Karnataka,India","Medaralli, Chikkabanavara, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.514529,13.071345
+"Versova Layout,Bangalore,Karnataka,India","Varsova Layout, Kaggadasapura, Bengaluru, Bengaluru Urban, Karnataka, India",0.99869,77.670595,12.985702
+"Chikkajala,Bangalore,Karnataka,India","Chikkajala, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.63457,13.17158
+"Udayagiri,Bangalore,Karnataka,India","Udayagiri, Devanahalli, Bengaluru Rural, Karnataka, India",0.875,77.674432,13.21021
+"pavitra paradise,Bangalore,Karnataka,India","Pavithra Paradise, Jayanagar 4th Block, Bengaluru, Karnataka 560011, India",1.0,77.585726,12.928562
+"kadubisnahalli,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Rahmath Nagar,Bangalore,Karnataka,India","Rahmath Nagar, RT Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.594277,13.01842
+"Chikkanahalli,Bangalore,Karnataka,India","Chikkanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.354481,12.881175
+"Halanayakanahalli,Bangalore,Karnataka,India","Halanayakanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.690267,12.903278
+"Park View Layout,Bangalore,Karnataka,India","Park View, Service Rd, Hoshalli Extension, Vijaynagar, Bengaluru, Karnataka 560040, India",0.824815,77.539457,12.97291
+"Xavier Layout,Bangalore,Karnataka,India","Xavier Layout, Victoria Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.612712,12.964602
+"Air View Colony,Bangalore,Karnataka,India","Air View Colony, HAL, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.661264,12.954741
+"akshaya nagar t c palya,Bangalore,Karnataka,India","Akshya Nagar, Ramamurthy Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.723675,77.683885,13.023082
+"mvj engineering college,Bangalore,Karnataka,India","Indian Institute Of Science, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",0.750741,77.5667375,13.0194445
+"Raja Rajashweri Nagar,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.638889,77.5913,12.97912
+"basaveshwarnagar,Bangalore,Karnataka,India","Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.539132,12.993757
+"Banashankari 3rd stage, Vivekanandanagar,Bangalore,Karnataka,India","Banashankari 3rd Stage, Banashankari, Bengaluru, Bengaluru Urban, Karnataka, India",0.835397,77.552044,12.922384
+"Annaiah Reddy Layout,Bangalore,Karnataka,India","Annaiah Reddy Layout, Banaswadi, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.657515,13.016659
+"manyata,Bangalore,Karnataka,India","Cerner H2, Manyata business park, Bengaluru, Karnataka 560024, India",1.0,77.622394,13.046816
+"LIC Colony,Bangalore,Karnataka,India","LIC Colony, Jayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.589921,12.930301
+"Mallappa Layout,Bangalore,Karnataka,India","Mallappa Layout, Prakruthi Twp, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.651889,13.029878
+"3rd Stage Raja Rajeshwari Nagar,Bangalore,Karnataka,India","3rd Stage, Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.732222,77.542156,12.989875
+"Dominic Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"KAMAKIYA,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Wheelers Road,Bangalore,Karnataka,India","Wheeler Road, Cleveland Town, 560005, Pulikeshi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.997821,77.6154216,12.9937952
+"MM Layout,Bangalore,Karnataka,India","MM Layout, Kaval Bairasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.6103,13.022111
+"Devarabeesana Halli,Bangalore,Karnataka,India","Hall Road, 560005, Richards Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.754,77.6161694692944,13.0041613
+"beml layout, basaveshwara nagar,Bangalore,Karnataka,India","BEML Layout, Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.993386,77.532705,12.991011
+"Sadhguru Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Chikbasavanapura,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Electronic City Phase 1, ,Bangalore,Karnataka,India","Electronic City Phase 1, Electronics City Phase 1, 560100, Electronic City, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.665361,12.84496565
+"Chuchangatta Colony,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Hanuman Nagar,Bangalore,Karnataka,India","Hanuman Nagar, Arekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.60982,12.881149
+"Kengeri Satellite Town KHB Apartment,Bangalore,Karnataka,India","Kengeri Satellite Town, Bengaluru, Bengaluru Urban, Karnataka, India",0.787778,77.486964,12.923649
+"Subhash Nagar,Bangalore,Karnataka,India","Subhash Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.56717,12.974834
+"Jogupalya,Bangalore,Karnataka,India","Jogupalya, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.628026,12.974688
+"Doddanakunte,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Duddanahalli,Bangalore,Karnataka,India","Muddanahalli, Bengaluru, Bengaluru Urban, Karnataka, India",0.999583,77.580647,13.150583
+"Beml layout, Rajarajeshwari nagar,Bangalore,Karnataka,India","BEML Layout, Brookefield, Bengaluru, Bengaluru Urban, Karnataka, India",0.771905,77.719206,12.959966
+"Gulakamale,Bangalore,Karnataka,India","Gulakamale, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.528465,12.79917
+"Jakkasandra,Bangalore,Karnataka,India","Jakkasandra, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.637603,12.92435
+"Chellikere,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.75,77.5913,12.97912
+"Zuzuvadi,Bangalore,Karnataka,India","Zuzuvadi, BTM Layout, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.615827,12.92656
+"Kanakapura main  Road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Masjid e Alkareem,Bangalore,Karnataka,India","Masjid Road, 560004, Basavanagudi, Bengaluru, Bengaluru Urban, Karnataka, India",0.713704,77.578902,12.9405752
+"Sindhi Colony,Bangalore,Karnataka,India","Sindhi Colony, Pulikeshi Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.615927,12.993377
+"Kanakapur main road,Bangalore,Karnataka,India","Main Road, 560075, New Tippasandra, Bengaluru, Bengaluru Urban, Karnataka, India",0.824815,77.6558398,12.9704842
+"Prasanna layout Herohalli,Bangalore,Karnataka,India","Herohalli, Sunkadakatte, Bengaluru, Bengaluru Urban, Karnataka, India",0.750741,77.489788,12.990029
+"Sarvobhogam Nagar,Bangalore,Karnataka,India","Sarvobhogam Nagar, Arekere, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.600256,12.888603
+"Pattegarhpalya,Bangalore,Karnataka,India","Pattegarhpalya, Vijayanagar, Bengaluru, Bengaluru Urban, Karnataka, India",1.0,77.522444,12.977787
+"Tilak Nagar,Bangalore,Karnataka,India","Tilak Nagar, Tilak Nagar, Bengaluru, Karnataka 560041, India",1.0,77.588115,12.922427
+"12th cross srinivas nagar banshankari 3rd stage,Bangalore,Karnataka,India","3rd Stage, Basaveshwar Nagar, Bengaluru, Bengaluru Urban, Karnataka, India",0.676667,77.542156,12.989875
+"Havanur extension,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
+"Abshot Layout,Bangalore,Karnataka,India","Bengaluru, Karnataka, India",0.683333,77.5913,12.97912
