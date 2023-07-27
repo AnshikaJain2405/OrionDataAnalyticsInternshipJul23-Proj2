@@ -34,14 +34,11 @@ def Total_sqft_average(value):
     return value
 
 
-# def create_metric_map(metric_df:pd.DataFrame):
-#     '''Certain values in the total_sqft column are not in sqft so to make that an easy transition 
-#     I have made a dictionary containing some of the metrics, and this function helps it to be case 
-#     insensitive'''
+
 metric_df = {'metric': ['acres', 'sq. yards', 'sq. meter', 'perch', 'cents', 'guntha', 'ground'],
                  'value': [43560, 9, 10.76, 272, 435.56, 1089, 2400]}
 metric_map = {metric.lower(): value for metric, value in zip(metric_df['metric'], metric_df['value'])}
-    # return metric_map
+
 
 
 def extract_numeric(s):
@@ -73,3 +70,21 @@ def Total_sqft_convert(value):
 def remove_skew(df, column):
     '''Removing skewdness of the data'''
     df[column]=np.log1p(df[column])
+
+
+def preprocess_data(df):
+    '''cleans the data according to our needs'''
+    change(df, 'size')
+
+    remove_null_values(df)
+
+    df['total_sqft'] = df['total_sqft'].apply(Total_sqft_average)
+
+    df['total_sqft'] = df['total_sqft'].apply(Total_sqft_convert)
+
+    df['total_sqft'] = pd.to_numeric(df['total_sqft'], errors='coerce')
+
+    remove_skew(df, 'price')
+    remove_skew(df, 'total_sqft')
+
+    return df
