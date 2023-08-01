@@ -15,7 +15,7 @@ While making this project some very important things that I learnt were:
 - How to save our model using joblib and load it later
 - How to add image with link to file
 
-The link to my report: 
+The link to my report: [Project Report](https://anshikajain2405.github.io/OrionDataAnalyticsInternshipJul23-Proj2/docs.html)
 
 - [Cookie Cutter](https://github.com/khuyentran1401/data-science-template/tree/prefect-poetry) for project template
 - Install [Poetry](https://python-poetry.org/docs/#installation): `pip install poetry`
