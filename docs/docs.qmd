@@ -1,0 +1,29 @@
+---
+title: "Data Analytics Virtual Internship July 2023"
+author: Anshika Jain
+---
+
+While making this project some very important things that I learnt were:
+
+- What is cookie-cutter and poetry and what is their use
+- How to save and call our functions from separate file
+- How to geoencode our locations
+- What is API and how it is used
+- To use .env files to keep secrets, ie, the links that are private to us 
+- Usage of requests library
+- When to use dataclasses
+- How to perform geospatial analysis
+- How to remove previously added unwanted files from github only
+- How to save our model using joblib and load it later
+- How to add image with link to file
+
+You can also check my [Github](https://github.com/AnshikaJain2405/OrionDataAnalyticsInternshipJul23-Proj2/) repo for the same.
+
+## EDA
+{{< include EDA.html >}}
+
+## Geo Encoding
+{{< include GeoEncode.html >}}
+
+## Modelling 
+{{< include ML.html >}}

@@ -1,0 +1,20 @@
+project:
+  title: "Data Analytics Virtual Internship July 2023"
+
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+    code-tools: true
+    abstract-title: "Abstract"
+    abstract: "What are the things that a potential home buyer considers before purchasing a house? 
+    The location, the size of the property, vicinity to offices, schools, parks, restaurants, 
+    hospitals or the stereotypical white picket fence? What about the most important factor -- 
+    the price? To make this task of finding the price of houses easier we analyse and create a model
+    using the given datasets. This dataset is part of a machine hack competition we also share the
+    achieved accuracy of the model."
+
+
+
