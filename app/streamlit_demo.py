@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd 
 import numpy as np
-from src.utils import feature_engg
 
 st.title('Uber pickups in NYC')
 
