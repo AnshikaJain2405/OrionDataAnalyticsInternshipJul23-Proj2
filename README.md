@@ -32,6 +32,9 @@ The link to my report: [Project Report](https://anshikajain2405.github.io/OrionD
 - To render quarto files: `quarto render (filename)`
 - Install streamlit to create webapp: `poetry add streamlit`
 - To check that streamlit has been correctly installed: `streamlit hello`
+- To run the web-app created: `streamlit run (folder\file.py)` 
+
+- The [webapp](https://oriondataanalyticsinternshipjul23-proj2-lzqy4rmah3hsryndpbqf2u.streamlit.app/) for this project, created using streamlit
 
 ![Score](image.png)
 
