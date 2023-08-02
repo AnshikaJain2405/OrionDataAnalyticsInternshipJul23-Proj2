@@ -1,35 +1,30 @@
 import streamlit as st
 import pandas as pd 
 import numpy as np
+import joblib
 
-st.title('Uber pickups in NYC')
+st.title('Bengaluru House Price Prediction')
 
-DATE_COLUMN = 'date/time'
-DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-         'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+# st.write("[![Star](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png?logo=github&style=social)](https://gitHub.com/jrieke/year-on-github)")
 
-@st.cache_data
-def load_data(nrows):
-    data = pd.read_csv(DATA_URL, nrows=nrows)
-    lowercase = lambda x: str(x).lower()
-    data.rename(lowercase, axis='columns', inplace=True)
-    data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
-    return data
+area_type = st.radio("What\'s your preferred area type",('Plot  Area', 'Super built-up  Area', 'Built-up  Area', 'Carpet  Area'))
 
-# Create a text element and let the reader know the data is loading.
-data_load_state = st.text('Loading data...')
-# Load 10,000 rows of data into the dataframe.
-data = load_data(10000)
-# Notify the reader that the data was successfully loaded.
-data_load_state.text('Loading data...done!')
+size = st.text_input("What is your preferred Number of Bedrooms")
 
-st.subheader('Raw data')
-st.write(data)
+total_sqft = st.text_input("Total preferred area(in square ft.)")
 
-st.subheader('Number of pickups by hour')
-hist_values = np.histogram(
-    data[DATE_COLUMN].dt.hour, bins=24, range=(0,24))[0]
-st.bar_chart(hist_values)
+bath = st.text_input("What is your preferred Number of Bathrooms")
 
-st.subheader('Map of all pickups')
-st.map(data)
+balcony = st.text_input("What is your preferred Number of Balconies")
+
+extract = st.selectbox("When are you looking to move in",('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec','Ready to Move','Immediate Possession'))
+
+x_test = pd.DataFrame(columns=['area_type','size','total_sqft', 'bath', 'balcony', 'extract'],
+             data=np.array([area_type, size, total_sqft, bath, balcony, extract]).reshape(1,6))
+
+loaded_model_RF = joblib.load(r'app/2nd_model_RF.joblib')
+y_pred = loaded_model_RF.predict(x_test)
+
+price = np.expm1(y_pred)
+if st.button('Show Price'):
+    st.write("Price of House:", price)
