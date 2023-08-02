@@ -30,6 +30,8 @@ The link to my report: [Project Report](https://anshikajain2405.github.io/OrionD
 - For quarto to recognise python in virtual environment: `set (QUARTO_PYTHON)=(link)`
 - To check quarto: `quarto check`
 - To render quarto files: `quarto render (filename)`
+- Install streamlit to create webapp: `poetry add streamlit`
+- To check that streamlit has been correctly installed: `streamlit hello`
 
 ![Score](image.png)
 
