@@ -1,6 +1,6 @@
 # OrionDataAnalyticsInternshipJul23-Proj2
 
-What are the things that a potential home buyer considers before purchasing a house? The location, the size of the property, vicinity to offices, schools, parks, restaurants, hospitals or the stereotypical white picket fence? What about the most important factor – the price? To make this task of finding the price of houses easier we analyse and create a model using the given datasets. This dataset is part of a machine hack competition we also share the achieved accuracy of the model.
+What are the things that a potential home buyer considers before purchasing a house? The location, the size of the property, vicinity to offices, schools, parks, restaurants, hospitals or the stereotypical white picket fence? What about the most important factor – the price? To make this task of finding the price of houses easier we analyse and create a model using the given datasets. This dataset is part of a [machine hack competition](https://machinehack.com/hackathons/predicting_house_prices_in_bengaluru/overview) we also share the achieved accuracy of the model.
 
 While making this project some very important things that I learnt were:
 - What is cookie-cutter and poetry and what is their use
@@ -31,5 +31,4 @@ The link to my report: [Project Report](https://anshikajain2405.github.io/OrionD
 - To check quarto: `quarto check`
 - To render quarto files: `quarto render (filename)`
 
-![Score](image.png)
-
+![Score](docs/image.png)
